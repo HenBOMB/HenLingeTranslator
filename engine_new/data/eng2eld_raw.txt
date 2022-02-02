@@ -1,0 +1,724 @@
+-phrases
+
+to not fit in / to not belong / to not go well - aveil nol
+ah, got it, thanks so much - aa, es me kempte, me zol grasha
+to another winter, together - a ire inveirne, ynilyshil
+give live love - don veish mein
+damn it / shit / crap / bloody shit - blödei dung
+freeze - bythkwe
+beasts in the woods - drelka eip wöda
+from the hill - ein shi
+why is / why's - enkwe's't
+no one is ever what they see - es nyn ynig kwe't themmone
+you made it back - eseith eipkölte irig
+always ask the right questions - evelig ur kerve urme
+sunday market - feintei saren
+steal and lose a hand! - felben i felhelsh peir!
+beware the den of my dead - garein veith eip me volynath
+caution after dark - garein eifter murm
+beware the scoia'tael - garein skwatel
+man on horse tavern - gram eip eval veldwyn
+icy clouds swirling about mighty towers - gynveilei zefen eip zolke torana	
+elder races not allowed - hen strena nein thembenil
+it's time to go home - hig a vein a mor es kempte
+winter is coming - inveirne keime
+hi - keid
+hello / greetings - keidmil
+come back / return - keim irig
+the burden of power can be painful - keinme köln kein yn felbreis
+#maybe / it can be / it may be / perhaps - kents / keints
+maybe, perhaps / it can be, it may be - kents / kaen's
+what are you? - kw'eseith
+what is / what's - kwe's't
+what is your name? - kwe's't te lothe?
+who are you? - kwyn eseith?
+thank you / thanks - me grasha / grasha
+my name is... / i'm called... - me lothe...	
+my love - 'me mine
+no / not - nein
+prohibited forms of witchcraft - ne'thembenshil meika eip vatyrm
+town fair - rone pareil
+fuck - shik
+you shut up - theis ath eip
+announcement of birth of royal/nobility heir - thendikem ein apurm ein ronei owen		
+announcement of local miracle - thendikem ein einilei wöndrel	
+obey the law - thenveid'eth relga
+goodbye / farewell - va feil
+something ends - veise deireid eip eigein
+something begins - veise eig faidar
+capital punishment crimes - volei gathreisen felnymyn
+deathless mother - voleth meir
+open the door - vond agwethil
+yes / yeah - yei
+rape is punished by castration - ysfenme gathreishil ein eipkwysme ein sapin
+chaos is power - zurshem es keinme
+from the chaos granted unto you, peace i now give you, as you give us power in return - ein zurshem kwe't eif t'yndonshil, keilme a't te os done, enstred en donet keinme eipkeimen
+ignite to life, burn to death - anain a veishme, aneinye a vol
+grown in darkness, bring forth darkness - anymbreishil ys murm, ankeim eir murm
+rise from the earth and return to the earth - zeil eip ein nola i va irig a nola
+
+-custom
+castration (v) - eipkwysme ein sapin
+punished / is punished (v) - gathreishil / gathreishil ein
+kiss / to kiss (v) - a'baeth
+mouth (n) - abb
+dance, dancer / dancing (v) - adan / addan
+forward (adv) - adhart
+shard / piece (n) - aedd
+has / in / to (prep) - eif
+out of / at / by / down / into / until (prep) - ys
+on (prep) - yn
+excretion (v) - ysgarthiad
+wyvern (n) - vyverne
+bitch / whore () - varh'he
+to excuse / to forgive (v) - squaess
+to attack / to fire (v) - spar'le
+elf (n) - sidh
+to sing (v) - shaent
+ghost / soul (n) - saov
+to pray () - salah
+redanian (adj) - roethainne
+riders (n) - ruadhri
+horsemen (n) - ruadhri
+queen (n) - rhena
+ape (n) - pavienn
+halfling (n) - pherian
+hobbit (n) - pherian
+bridge (n) - pont
+sea (n) - muire
+tome / book (n) - morc
+waxwing (n) - mistle
+in the middle of / middle (adj) - mid
+painting (n) - Ledwedd
+island (n) - inis
+sprouting (n) - Imbaelk
+herb (n) - herba
+gang (n) - hanse
+unit (n) - hanse
+drug, medicine / medicine (n) - hael / haela 
+wind (n) - gwent
+falcon (n) - gvalch'ca
+mistress (n) - gvaern
+watch / stare (v) - glosse
+glory (n) - gloir
+low / bottom (adj) - glean
+charming / enchanting / glamorous / enthralling (adj) - ensh'eass
+daisy (n) - enid
+tired (adj) - en'leass
+whisper (v) - tuathe
+swear (v) - zvaere
+delta (n) - abb
+
+# () - 
+
+- madeup
+final (adj) - ceann
+house (n) - caer
+house (n) - caer
+breath (n) - kess
+breathe (v) - soeh
+
+-numbers
+
+one - yn
+two - tfe
+three - drav
+four - kweth
+five - kwen
+six - shi
+seven - shif
+eight - oz
+nine - neivde
+ten - dein
+eleven - nining
+twelve - ninkan
+thirteen - ninzu
+fourteen - ninpin
+fifteen - zurop
+sixteen - zurping
+seventeen - zurkan
+eighteen - kanyuzol
+nineteen - inyuzol
+twenty - zol
+twenty one - zol ing
+thirty - zunen
+fourty - kanzol 
+fifty - nendrep
+fixty - zuzol nen
+seventy - zuzol nen
+seventy one - zuzol nining
+eighty - zolyuvan
+ninety - nenyuvan
+one hundread - van
+
+-plants
+
+dandelion (n) - neirblath
+hawthorn (n) - blödluyen
+rhodiola (n) - blödekstern
+maca / maca root (n) - lingered
+dragon's blood (n) - deithrelk ikeir
+cat's claw / cats claw (n) - romyn zal
+witch hazel (n) - vatrush
+witch hazel (n, plural) - vatrusha
+burdock root (n) - dolekstern
+white skaneroot (n) - gwyn gerdered
+deadly nightshade (n) - volei murveine
+water hemlock (n) - ulfinekstern
+
+-potions
+
+graviola (n) - hein wöndrel
+moringa (n) - brölth
+jergón sacha (n) - velys tolv
+tumeric (n) - feinered
+nettle (n) - hil thempeikyn	
+glyconda (n) - grösh tolv
+manuka oil (n) - zerynym
+horsetail (n) - romynböi
+henbane (n) - pelysnym
+mandrake (n) - kernthevyn
+
+-dictionary
+
+#i (pron) - agh
+
+#i (pron, 1st) - a
+#me / my (pron, 1st) - me
+
+there / in that place (adv) - aa
+to / toward / towards / for	(prep) - a
+already (adv) - adem
+to open (v) - adweth
+opened (v) - eif agwethte
+to opens (v) - adwethil
+to heal (v) - aheil
+light / enlightened (v) - ain
+to enable / to allow (v) - akein
+#enabled / allowed (v) - eif akeide
+enabled (v) - eif akeide
+to burst / to explode (v) - aks
+bursted / exploded (v) - es ekste
+to blow up (v) - aks eip
+to ignite (v) - anain 
+to burn (v) - aneinye
+to inflict / to enact / to cause to befall / to make happen (v) - eif anelsh
+inflicted / enacted / cursed to befall / made happen (v) - eif anelshte
+spy / informer  (n) - angivyr
+to bring / to take / to transport / to make come / to make arrive (v) - ankeim
+brought / taken / taken / transported / made to come / made to arrive (v) - es ankempte
+to grow (v) - anymbreish
+to grown (v) - anymbreishil
+to break / to ruin (v) - aperthe
+broken / ruined (v) - eif aperthete
+to bear / to give birth to  (v) - apur
+bared / birthed (v) - eif apurte
+birth (n) - apurm
+mountain (n) - ard
+upper / top (adj) - ard
+first / primary (adj) - ardei
+to promise (v) - asher
+promised (v) - asheril
+to hide / to obscure (v) - ashindre
+hid / obscured (v) - eif ashindrete	
+had (v, 1p, singular, past) - at
+had (v, 3p, singular, past) - at
+#today (adv) - ateigan / ategan
+today (adv) - a'taeghane
+#you / your / yours (pron) - ath / 'eth / 'th
+to send / to cause to go (v) - ava
+sent (v) - eif avante
+gone / dead / passed away (v) - avanshil 
+to poison (v) - aveil
+poisoned (v) - eif avelte
+to feed (v) - avreid
+all / all of (delim) - awen
+circle (n) - bar
+woman / women (n) - beina / beinan
+to squeeze / to press / to compress (v) - beish
+squeezed / pressed / compressed (v) - eif beshte
+to take / to grab / to grasp (v) - ben
+took / grabbed / grasped (v) - eif bente
+birch / birch tree (n) - birke
+flower / bloom (n) - blath
+flowers / blooms (n) - blathana
+wolf (n) - bleid 
+bloody (adj) - blödei
+tail (n) - böi
+tails (n) - böyana
+food (n) - breith
+brokilon forest (n) - brokilon
+moringa tree (n) - brölth
+to end (v) - dein 
+flame / fire (n) - deith
+dragon (n) - deithrelk
+to search / to seek / to look for / to obvserve (v) - del
+searched / seeked / looked for / observed (v) - eif delte 
+quail (n) - delme
+to say / to speak / to talk / to claim (v) - dike
+said / spoken / spoke / talked / claimed (v) - eif dikete
+dale / dell / vale / valley	(n) - dol
+to give (v) - don
+gave (v) - eif dinte
+face (n) - drad
+identity (n) - dradyrm
+weak (adj) - drei
+weaker (adj) - dreinen
+to fight (v) - dreith
+to combat (v) - dreith
+animal / beast (n) - drelk
+animals / beasts (n) - drelka
+dryads (n) - dröyith
+shit / excrement / feces (n) - dung
+wound / injury (n) - duweire
+human / human being (n) - dwan
+human / humane (adj) - dwanei
+place (n) - dwein
+to have (v) - eif
+after / later (adv) - eifter
+at / by / near (?) - eig
+must (?) - eigein
+had (v, 1p, plural, past) - ein
+had (v, 2p, plural, past) - eik
+had (v, 3p, plural, past) - eil
+from / for / by / of / with (ablative/comitative) / like / as	(prep) - ein
+slowly (adv) - ein kelimme
+exactly (adv) - ein kervem
+when / if / at the time that / at the moment that (conj) - ein ted
+weather (n) - ein ted
+local / nearby (prep) - einilei
+to become / to come to be (v) - einkeim
+became / came to be (v) - es einkempte
+origin (n) - einpisme
+dead (adj) - einvolen
+fire (n) - einye
+upon / in / of (descended from)	(prep) - eip
+to enter / to go in (v) - eipkeim
+entered / went in / gone in - es eipkempte
+entry / way in / entrance (n) - eipkeimen
+to make it (v) - eipkölte
+made it (v) - es eipkölte
+to cut off / to slice off / to remove by cutting or slicing (v) - eipkwys
+sliced off / cut off (v) - eif eipkwyste
+cutting off / removal (n) - eipkwysme
+to mold / to form / to give form to / to shape / to give shape to (v) - eipmeik
+mold / formed / gave form to / shaped / gave shape (v) - eif eipmekte
+to survive / to thrive (v) - eipveish
+survived / thrived (v) - es eipveshte
+here / in this place (adv) - eir
+had (v, 2p, singular, past) - eith
+every / each (det) - eivel
+have (v, 1p, singular, present) - ave
+have (v, 1p, plural, present) - aven
+have (v, 2p, plural, present) - eivik
+have (v, 2p, singular, present) - eivith
+have (v, 3p, plural, present) - avel
+#you / your / yours (pron) - ek / 'ek / 'k	
+? (n) - ekstern
+alder (n) - ele
+aim (n) - eltren
+focus / patience (n) - eltrym
+to aim / to focus (v) - eltyr
+aimed / focused (v) - eif eltryte
+#us / our / ours (pron) - en / 'en / 'n
+any (det) - enn
+like this / like that / thus (adv) - enet
+why (adv) - enkwe
+anyone / anything (pron) - enyen
+#was (v, 1p / 3p, singular, past) - er
+were (v, 2p, singular, past) - ereith
+were (v, 2p, plural, past) - erek
+were (v, 3p, plural, past) - erel
+were (v, 1p, plural, past) - eren
+to be (v, infinitive) - es
+am (v, 1p, singular, present) - esei
+are (v, 2p, singular, present) - eseith
+are (v, 2p, plural, present) - esek
+are (v, 3p, plural, present) - esel
+are (v, 1p, plural, present) - esen
+been (v) - este
+horse (n) - eval
+always (adv) - evelig
+everybody / everyone / everything (pron) - evelyen
+to begin / to happen (v) - faidar
+horror / terror (n) - fast
+horrors / terrors (n) - fasta
+sun (n) - feine
+sunday (n) - feintei
+to wander / to diverge / to go wrong / to mess up / to run afoul (v) - fel
+wandered / diverged / went wrong / messed up / ran afoul (v) - es felte
+to crush / to squish (v) - felbeish
+crushed / squished (v) - eif felbeshte
+to steal (v) - felben
+stole (v) - eif felbente
+to curse / to extract an oath or promise from (by force or magic) (v) - felben geish	
+burden / pain / painful / hurt (adv) - felbreis 
+to forfeit / to lose / to give away unwillingly	(v) - feldon
+forfeit / lost (v) - eif feldinte
+to close off / to isolate / to segregate (v) - felfirs
+to deny / to keep from (v) - felgreth
+denied / kept from (v) - eif felgrethte
+to trick / to fool (v) - felgwelv
+tricked / fooled (v) - eif felgwelfte
+trickery (nik) - felgwelvem
+to lose / to lose track of (v) - felhelsh
+lost track of (v) - eif felhelshte
+to afford / to take on / to be able to take on (v) - felmov
+afforded / took on / taken on (v) - eif felmofte
+crime / transgression (n) - felnym
+crimes / transgressions (n) - felnymen / felnymyn
+to infiltrate (v) - felzik
+pasture / meadow (n) - fen
+half (n) - fen
+mad / crazy / insane (adj) - fwal
+madder / crazier / more insane (adj) - fwalen
+maddest / craziest / most insane (adj) - fwalshyn
+to beware / to consider / to watch out / to be cautious / to be careful of / to note / to take note of / to take care (v) - garein
+bewared / considered / watched out / noted / taken note (v) - eif garante
+to punish / to reprimand (v) - gathreis
+punishing / punishment (n) - gathreisen
+punished / reprimed (v) - eif gathraste
+to be punished (v) - gathreishil
+to operate / operating (v) - gavesen
+curse / oath / prohibition / obligation (n) - geish
+to kill (v) - ger
+killed (v) - eif gerte
+snake / serpent (n) - gerde
+sword (n) - gleidyf
+swords (n) - gleidyvana
+gold (n) - göld
+man (n) - gram
+thankfulness (n) - grash
+thanks (n) - grasha
+to retain / to hold / to keep / to maintain (v) - greth
+to retain / to hold in place / to keep in place / to maintain in place (v) - greth ein
+retained / held in place / kept in place / maintained in place (v) - eif grethte
+mud / muck / grime / filth (n) - grösh
+magic (n) - gweld
+to aid / to assist / to help (v) - gwelv
+aid / assistance / help (n) - gwelvem
+aided / assisted / helped (v) - eif gwelfte
+white flame (n) - gwendeith
+wide / open (adj) - gweth
+white (adj) - gwyn
+white snakeroot (n) - gwyn gerdered
+white wolf (n) - gwynbleid
+golden / gold / blond / blonde (adj) - gyldne
+ice (n) - gynveil
+icy (adj) - gynveilei
+more (delim) - heil
+to greet (v) - heil
+greeted (v) - eif heilte
+rain (n) - hein
+to trust (v) - heir
+to hope (v) - heir
+to drop / to fall (v) - helsh
+dropped down / fell down (v) es helshte / eif helshte	
+to drop down / to fall down (v) - helsh ys
+army (n) - helyk
+old / oldest / elder (adj) - hen
+elder speech (n) - hen linge
+#he / she / it / they (pron) - het
+#that (pron) - het a
+that (pron) - kwe
+this (pron) - het eir
+one time / one instance (n) - hig
+body (n) - hil
+to discover / to find (v) - hul
+discovered / found out (v) - eif hulte
+too many / too much of (det) - hyuz
+and (conj) - i
+blood (n) - ikeir
+to join / to unite / union (v) - ilysh
+acre (n) - indryl
+winter (n) - inveirne
+another / other / different (adj) - ire
+second (adj) - irenke
+again / anew / once again / once more (adv) - irig
+to lack / to miss / to be missing (v) - is
+lacked / is missing (v) - eif iste
+#him / it / his / her / hers / them / their / theirs (pron) - it / 'et / 't
+#him / his / her, hers (pron) - it / 'et / 't
+this (pron) - it eir
+oak / oak tree (n) - kanel
+burial mound / barrow / grave (n) - karn
+calm / peaceful (adj) - keilm
+peace (n) - keilme
+to arrive / to come / to understand (v) - keim
+arrived
+to be able / to be capable / can (v) - kein
+power / might / strength (n) - keinme
+castle / fortress / keep (n) - keir
+destiny / fate (n) - keirm
+kelpie (n) - kelpi
+arrived / come (v) - kempte
+crow (n) - kerbin
+heart (n) - kern
+true / accurate / correct / right (adj) - kerve
+truth / rightness (n) - kervem
+pain / painful / hurt (n) - köln
+koram (n) - lion
+evil / wicked (adj) - krethe
+fox (n) - krevan
+stench / stink / smell (n) - krök
+gem / jewel (n) - krön
+still / unmoving (adj) - kwan
+what (pron) - kwe
+to change / to transform (v) - kwesh
+changed / transformed (v) - es kweshte / eif kweshte
+who (n) - kwyn
+to cut / to slice (v) - kwys
+had cut / has cut / sliced (v) - eif kwyste
+those (pron) - lan a
+these (pron) - lan eir
+gull / seagull (n) - lar
+lady (n) - leith
+to taste (v) - lin
+tasted (v) - eif linde
+language (n) - linge
+lake (n) - lok
+place / area (n) - loke
+to call / to call out to / to call upon / to call after (v) - loth# / loth eifter
+called / called out / called upon / called after (v) - eif lethte
+name (n) - lothe
+daughter / girl (n) - luned
+berry (n) - luyen
+me / my, mine (pron) - me / 'me
+form / type / kind (n) - meik
+forms / types / kinds (n) - meika
+to love (v) - mein
+loved (v) - eif minte
+mother (n) - meir
+to meet (v) - meith
+met (v) - eif methte
+to lead (v) - mend
+leader (n) - mendyn
+leadership (n) - mendynyrm
+to bury (v) - mev
+kite (n) - milva
+darling / dear / love (n) - mine
+intent / goal / plan / objective (n) - minth
+home (n) - mor
+enemy / foe (n) - morvud
+to receive / to accept / to get / to obtain (v) - mov
+recieved / accepted / obtained (v) - eif mofte
+world / planet (n) - mowin
+dark (adj) - mur
+dark / darkness (n) - murm
+nightshade (n) - murveine
+or (conj) - na
+not i (pron) - na
+prohibited / disallowed / not accepted / illegal (v) - ne'thembenshil
+was dissalowed / was prohibited (v) - eif thembente
+not we (pron) - nein
+star (n) - neir
+special (adj) - neirei
+unborn (adj) - nepurte
+not he / not she / not it / not they (pron) - net
+not you (pron) - nete
+to believe / to think / to feel (v) - nik
+believed / thought / felt (v) - es nikte
+not they (pron) - nil
+Nilfgaard (n) - Nilfgard
+Nilfgaardian (adj) - Nilfgardei
+#we (pron) - nina
+not you (pron) - nök
+earth / soil (n) - nol / nola
+#earth / soil (n) - nola
+north (n) - nörd
+northern (adj) - nördei
+oil (n) - nym
+no one (pron) - nyn
+gray / grey (adj) - or
+now / currently / at the moment (adv) - os
+east (n) - ösh
+estern (adj) - öshei
+heir (n) - owen
+eight (n) - oz
+decade / octade (n) - ozelyrm
+decades / octades (n) - ozelyrmen
+fair / fest / festival (n) - pareil
+to catch (v) - peik
+caught (v) - eif pekte
+hand (n) - peir
+reason (n) - peithyrm
+storm / tempest (n) - pelys
+weapon (n) - peraven
+broken / ruined / in ruins (adj) - perthe
+#liability (n) - perthekin / perthekyn
+#liability (n) - paerthekhin
+liability (n) - perthekyn
+pestilence / plague / blight (n) - pest
+born (adj) - pur
+to be born (v) - pur
+was born (v) - es purte
+border (n) - range
+root (n) - red
+to run (v) - rein
+ran (v) - es reinte
+law (n) - relg
+laws (n) - relga
+cat (n) - romyn
+king (n) - ron
+town / village (n) - rone
+royal / regal / kingly (adj) - ronei
+kingdom (n) - ronyrm
+deep (adj) - rosh
+#to travel / to march (v) - rösh
+#travelled / marched (v) - es röshte
+to march (v) - rösh
+marched (v) - es röshte
+hair (n) - rush
+hair (n, plural) - rusha
+penis / cock (n) - sapin
+market (n) - saren
+month / eigth of a year (n) - saveid
+to question / to doubt (v, r=vort) - seise
+wise tree (n) - Shan-Kayan
+south (n) - sheiv
+southern (adj) - sheivei
+hill (n) - shi
+fuck (v) - shik
+hidden / obscured (adj) - shindre
+hiddenness / secret (n) - shindrem
+cintra (n) - Sintra
+squirrel (n) - skwatel
+treasure (n) - stor
+little treasure (n) - storin
+road / street / trail / path (n) - streid
+race (n) - stren
+races (n) - strena
+to jump / to leap (v) - sut
+jumped / leaped (v) - es sutte
+must / to have to (v) - t'eip
+must / to have to (v) - t'en
+#you / your / yours (pron, obj, 2p, s) - te
+day (n) - teigan
+scared (adj) - teirth
+bard (n) - teiw
+shell / exterior / case / casing (n) - tel
+#you (pron, subj, 2p, s) - the
+time / age / era / season (n) - ted
+day (n) - teigan
+scared (adj) - teirth
+bard (n) - teiw
+shell / exterior / case / casing (n) - tel
+#you (pron, subj, 2p, s) - the
+to quiet / to shut up (v) - theis
+to quiet / to shut up (v) - theis eip
+to hug / to embrace (v) - thembeish
+hugged / embraced (v) - eif thembeshte
+to accept / to allow / to let (v) - themben
+is accepted / is allowed (v) - thembenil
+is accepted / is allowed (v) - thembenshil
+accepted / allowed / let in (v) - eif thembente
+to seem (v) - themmone
+to rescue / to save (v) - thempeik
+rescued / saved (v) - eif thempekte
+rescuer / savior (n) - thempeikyn
+to decimate / to destroy / to obliterate (v) - thenaperthe
+decimated / destroyed / obliterated (v) - eif thenaperthete
+to seek asylum / to seek rescue / to petition (v) - thendel
+sought / sought asylum / sought rescue / petitioned (v) - eif thendelte
+refugee / asylum seeker (n) - thendelyn
+refugees / asylum seekers (n) - thendelynath
+to announce / to proclaim (v) - thendike
+announced / proclaimed (v) - eif thendikete
+announcement / proclamation (n) - thendikem
+to possess / to have in one's possession (v) - thengreth
+possessed (v) - eif thengrethte
+possessors / keepers (n) - thengrethynath
+to need / to require (v) - thenis
+reaquired / needed (v) - eif theniste
+to belong (v) - thennushe
+to figure out / to determine / to ascertain (v) - thenul
+figured out / determined / ascetrained (v) - eif thenulte
+to beg / to plead (v) - thenur 
+begged / pleaded (v) - eif thenurte
+to heed / to obey / to follow (v) - thenveid
+heeded / obeyed / followed (v) - eif thenvete
+heather (n) - thevyn
+to beat / to pummel (n) - threis
+beat / plummeled (v) - eif thraste
+land / ground / country (n) - tir
+bane / ward (n) - tolv
+tower (n) - tor
+towers (n) - torana
+pond (n) - ulfin
+to ask / to inquire / to query (v) - ur
+asked / inquired / queried (eif urte) - eif urte
+asking / inquiring / querying (n) - urme
+olive (n) - ush
+to go (v) - va
+went to / gone to (v) es vante
+go back / return (v) - va irig
+ware / good / dry good (n) - var
+wares / goods / dry goods (n) - vara
+monster / witch (n) - vat
+witcher (n) - vatgern
+witchcraft (n) - vatyrm
+to listen / to hear (v) - veid
+listened / heard (v) - eif vete
+trip / journey (n) - vein
+go be? (v) - veise
+to live (v) - veish
+lived (v) - es veshte
+life (n) - veishme
+den / lair (n) - veith 
+tavern (n) - veldwyn
+fast / quick / quickly (adj) - velö
+poison (n) - velys
+poisonous (adj) - velysei
+had (v) - vente
+west (n) - ves
+western (adj) - vesei
+to know (v) - vesh
+known (v) - eif vishte
+death (n) - vol
+deadly (adj) - volei
+deathless (adj) - voleth
+dead (n) - volynath
+door / gate (n) - vond
+previous / prior / last (adj) - vor
+grandmother (n) - vormeir
+before / previously / forth (adj) - vort
+past / history (n) - vorted
+#you / you all / y'all (pron) - wak
+child / kid (n) - wed
+little child / little kid / kiddo (n) - wedin
+tool (n) - weth
+woods / forest (n) - wöd
+woods / forests (n) - wöda
+miracle / wonder (n) - wöndrel
+on / over / upon / in / for / during / for the duration of (prep) - yn
+to grant / granted / gifted / bestowed / given (v) - yndonshil
+to travel / to move (v) - yndrösh
+travelled / moved (v) - es ysdröshte
+but (conj) - yne
+ever (adv) - ynig
+tie / connection (n) - ynilysh
+together (adj) - ynilyshil
+ties / connections (n) - ynilyshyn
+upon which? (adv) - ynkwe?
+someone / something (pron) - ynyen
+under / underneath (prep) - ys
+down / downward / downwards (adv) - ys
+to rape (v) - ysfen
+raping (n) - ysfenme
+raped (v) - eif ysfente
+first / primary (adj) - yshtei
+claw (n) - zal
+cloud (n) - zef
+clouds (n) - zefen
+to rise / to raise (v) - zeil
+it rose / risen (v) - es zeilte / eif zeilte
+to rise up (v) - zeil eip
+manuka / manuka tree (n) - zeryn / zeiryn
+xin'trea (n) - zintrei
+swallow (n) - zireyel
+big / great / large (adj) - zol
+debt / obligation (n) - zolg
+risk / penalty (n) - zolgenyrm
+big / great / large / mighty (adj) - zolke
+chaotic / unpredictable (adj) - zurshe
+chaos (n) - zurshem

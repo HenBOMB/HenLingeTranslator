@@ -1,0 +1,205 @@
+i (pron, subj, 1p, s) - a
+me (pron, obj, 1p, s) - me
+my / mine (pron, pos, 1p, s) - 'me
+we (pron, subj, 1p, p) - nina
+us (pron, obj, 1p, p) - en
+our / ours (pron, pos, 1p, p) - 'en / 'n
+
+
+you (pron, subj, 2p, s) - the
+you (pron, obj, 2p, s) - ath
+your / yours (pron, pos, 2p, s) - 'eth / 'th
+you / you all / y'all (pron, subj, 2p, p) - wak
+you (pron, obj, 2p, p) - ek 
+your / yours (pron, pos, 2p, p) - 'ek / 'k
+
+
+he / she / it (pron, subj, 3p, s) - het
+him / her / it (pron, obj, 3p, s) - it
+his / her / hers / its (pron, pos, 3p, s) -  'et / 't
+they (pron, subj, 3p, p) - lan
+them (pron, obj, 3p, p) - lan
+their / theirs (pron, pos, 3p, p) - 'elan / 'lan
+
+not <1p, s> (pron, 1p, s) - na
+not <1p, p> (pron, 1p, p) - nein
+not <2p, s> (pron, 2p, s) - nete
+not <2p, p> (pron, 2p, p) - nök
+not <3p, s> (pron, 3p, s) - net
+not <3p, p> (pron, 3p, p) - nil
+
+or 
+
+not = [i, me, my, mine] (pron, 1p, s) - na
+not = [we, us, our, ours] (pron, 1p, p) - na
+not = [you, your, yours] - (pron, 2p, s) - nete
+not = [you all, y'all, you, yours, your] - (pron, 2p, p) - nete
+not = [he, she, it, him, her, his, hers, its] (pron, 3p, s) - het
+not = [them, theirs, they] (pron, 3p, p) - nil
+
+it's not his olive
+a het ush
+
+it's time to go home
+hig a vein a mor es kempte
+
+het hig
+hig 
+
+winter is coming
+inveirne keime
+inveirne keim
+
+
+it is coming
+- is third person and coming is a verb, so you add 
+
+-------------------
+
+Ends in -less -> -eth (shit, dunge -> shitless, dungeth)
+
+Vowels: a, e, i, o u
+Voiceless Consonants (starts with): Ch, F, K, P, S, Sh, T, Th
+Voiced Consonants (contains if not voiceless): b, d, g, j, l, m, n, ng, r, sz, th, v, w, y, z
+Regular verb = ends in '-ed' or '-d'
+
+The third-person pronouns: he, him, his, himself, she, her, hers, herself, it, its, itself, they, them, their, theirs, and themselves
+
+If is a noun and has a verb child then tense is Present Participle
+
+Is future tense:
+1p / 2p / 3p will / shall + verb
+
+All in elvish language, not english --->
+
+---------------------------------------------
+PRESENT CONJUGATION IRREGULAR VERBS:
+
+es "to be":
+- Singular -
+1p: -ei     esei
+2p: -eith   eseith
+3p: --
+- Plural -
+1p: -en     esen
+2p: -ek     esek
+3p: -el     esel
+
+eif "to have"
+- Singular -
+1p: ave
+2p: eivith
+3p: --
+- Plural -
+1p: aven
+2p: eivik
+3p: avel
+
+PAST CONJUGATION IRREGULAR VERBS:
+
+es "to be"
+- Singular -
+1p: er
+2p: ereith
+3p: er
+- Plural -
+1p: eren
+2p: erek 
+3p: erel
+
+eif "to have"
+- Singular -
+1p: at
+2p: eith
+3p: at
+- Plural -
+1p: ein
+2p: eik
+3p: eil
+
+---------------------------------------------
+
+---------------------------------------------
+NON CONJUGATION ACTIVE VERBS:
+
+- Vowel final -
+ex: va "to go"
+Basic:                  --      va
+First & Third person:   --      va
+Second person:          -t      vat
+Present Participle:     -ein    vein
+Past Participle:        -nte    vante     
+Middle Past:            es-te   es vante
+Full Past:              er-nte  er vante
+Future:                 - en    va en
+
+- Consonant final (voiceless) -
+ex: theis "to be quiet"
+Basic:                  --      theis
+First & Third Person:   -e      theise 
+Second Person:          -et     theiset
+Present Participle:     -en     theisen
+Past Participle:        -te     theiste
+Middle Past:            eif-te  eif theiste
+Full Past:              at-te   at theiste
+Future:                 - en    theis en
+
+- Consonant final (voiced) -
+ex: rein "to run"       
+Basic:                  --      rein
+First & Third Person:   -e      reine
+Second Person:          -et     reinet
+Present Participle:     -en     reinen
+Past Participle:        -te     reinte
+Middle Past:            es-te   es reinte
+Full Past:              er-te   er reinte        
+Future:                 - en    rein en    
+---------------------------------------------
+
+---------------------------------------------
+NON CONJUGATION PASSIVE VERBS:
+
+- Vowel final -
+ex: va "to go"
+Basic:                  -eil    veil
+First & Third person:   -eil    veil
+Second person:          -shil   vashil      
+Present Participle:     -enil   veinil
+Past Participle:        -shil   vanshil
+Middle Past:            es-shil es vanshil    
+Full Past:              er-shil er vanshil
+Future:                 enil-   enil va            
+
+- Consonant final (voiceless) -
+ex: theis "to be quiet"
+Basic:                  -hil    theishil
+First & Third Person:   -hil    theishil 
+Second Person:          -eshil  theiseshil
+Present Participle:     -enil   theisenil
+Past Participle:        -hil    theishil
+Middle Past:            eif-hil eif theishil
+Full Past:              at-hil  at theishil
+Future:                 enil-   enil theis
+
+- Consonant final (voiced) -
+ex: rein "to run"       
+Basic:                  -il     reinil
+First & Third Person:   -il     reinil 
+Second Person:          -eshil  reineshil
+Present Participle:     -enil   reinenil
+Past Participle:        -shil   reinshil
+Middle Past:            es-shil es reinshil
+Full Past:              er-shil er reinshil
+Future:                 enil-   enil rein
+---------------------------------------------
+
+
+
+
+
+
+
+
+
+
+

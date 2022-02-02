@@ -1,0 +1,487 @@
+Kiss. - A'baeth.
+To kiss. - A'baeth.
+Mouth. - Abb.
+Dance. - Adan.
+Dancer. - Adan.
+Dancing. - Addan.
+Forward. - Adhart.
+I. - Aé.
+To follow. - Aecáemm.
+Shard. - Aedd.
+Piece. - Aedd.
+To have. - Aef.
+Has. - Aef.
+Later. - Aefder.
+After. - Aefder.
+From. - Aen.
+To. - Aép.
+In. - Aép.
+For. - Aen.
+With. - Aen.
+Of. - Y.
+Out of. - Aen.
+At. - Aen.
+By. - Aen.
+Down. - Aen.
+Into. - Aen.
+Until. - Aen.
+On. - Yn.
+Like. - Aen.
+As. - Aen.
+Enter. - Aen'drean.
+Fire. - Aenye.
+Ride on a sleigh. - Aesledde.
+Ride on a sled. - Aesledde
+To shoot. - Aespar.
+Summer. - Eate.
+River. - Aevon.
+Of¹ - Aep.
+To open. - Agwetheill.
+To open2 - Agwethill.
+Light. - Aine.
+Small. - An.
+An. - An.
+Informer. - An'givare.
+Spy. - An'givare.
+Today. - A'taeghane.
+Mountain. - Ard.
+Mountainous. - Ard.
+Upper. - Ard.
+Top. - Ard.
+Highest. - Ard.
+Arse. - Arse.
+Ass. - Arse.
+Butt. - Arse.
+Rump. - Arse.
+Peak. - Ban.
+Summit. - Ban.
+Place/village. - Ban.
+Little. - Beag.
+Woman. - Beanna.
+Banshee. - Beann'shie.
+Important. - Belean'graec.
+Flower. - Blath.
+Garland. - Blathan.
+Flowers. - Blathan.
+Flowers' - Blathanna.
+Of flowers. - Blathanna.
+Wolf. - Bleidd.
+Blood. - Ichaer.
+Silly. - Bloed.
+Bloody. - Bloede.
+Gory. - Bloede.
+Damn. - Bloede.
+Frog. - Broggha.
+Of brokilon. - Brokiloéne.
+Brokiloni. - Brokiloéne.
+Grove. - Caed.
+Forest. - Caed.
+Calm. - Cáelm.
+Peaceful. - Cáelm.
+Quiet. - Cáelm.
+Slowly. - Cáelm.
+Quietly. - Cáelm.
+Calm. - Cáelm.
+Quieten. - Cáelm.
+To go. - Cáemm.
+Arrive. - Cáemm.
+Come. - Cáemm.
+Can. - Caen.
+Fortress. - Caer.
+Castle. - Caer.
+Keep. - Caer.
+Fate. - Cáerme.
+Destiny. - Cáerme.
+Destiny. - Cáerme.
+Kurgan. - Carn.
+Barrow. - Carn.
+Burial mound. - Carn.
+Cairn. - Carn.
+Rock. - Carraigh.
+Greet. - Ceádmil.
+Empire. - Ceas'raet.
+Head. - Ceann.
+Tip. - Ceann.
+Raven. - Cerbin.
+Ilyocoris. - Cinerea.
+Pass. - Col.
+Lion. - Coram.
+Stalk. - Conyn.
+Rock/cliff. - Craag.
+Must. - Eigean.
+Necessity. - Creasa.
+Obligation. - Creasa.
+Inevitability. - Creasa.
+Duty. - Creasa.
+Fox. - Crevan.
+Behind. - Daetre.
+Back. - Daetre.
+Sorceress. - Daerienn.
+Sorceresses. - Daerienn.
+Discover. - Darganfod.
+Discovery. - Darganfod.
+Discovered. - Darganfod.
+Read. - Darl'len.
+Red. - Dearg.
+Sleep. - Dearme.
+Good night. - Dearme
+To serve. - Deien.
+End. - Deireádh.
+Last. - Deireádh.
+Finish. - Deireádh.
+Flame. - Deith.
+White flame. - Deithwen.
+Human. - Dh'oine.
+Black. - Dhu.
+To speak. - Dice.
+To talk. - Dice.
+Dale. - Dol.
+Dell. - Dol.
+Vale. - Dol.
+Valley. - Gleanna.
+Beast. - Drelch.
+Devil. - D'yaebl.
+Sigh. - Easnadh.
+Necessary. - Eigean.
+Have to. - Eigean.
+Hedgehog. - Eimyr.
+Fair. - Elaine.
+Beautiful. - Elaine.
+Of alder. - Elle.
+Okay. - Ell'ea.
+Alright. - Ell'ea.
+Correct. - Ell'ea.
+Indefinite article. - En.
+Laced. - En'leass.
+Tied. - En'leass.
+Daisy. - Enid.
+Enchanting. - Ensh'eass.
+Enthralling. - Ensh'eass.
+Charming. - Ensh'eass.
+Glamorous. - Ensh'eass.
+To be. - Ess.
+Is. - Ess.
+Will be. - Esse.
+Will. - Esse.
+I am. - Essea.
+You are. - Esseath.
+Horse. - Evall.
+Everything. - Evellienn.
+All. - Holl.
+Everybody. - Evellienn.
+Everyone. - Evellienn.
+Ambassador. - Evn'gesaen.
+Sun. - Feainn.
+Sun-child. - Feainnewedd.
+Sun child. - Feainnewedd.
+Child of the sun. - Feainnewedd.
+Meadow. - Fen.
+Pasture. - Fen.
+Frantic. - Foilé.
+Mad. - Foilé.
+Frenzy. - Folie.
+Brothers. - Fraeren.
+Gate. - Gaeth.
+Portal. - Gaeth.
+Garden. - Gàidh.
+Note. - Gar'ean.
+Consider. - Gar'ean.
+Be careful. - Gar'ean.
+Curse. - Geas.
+Geasa. - Geas.
+Hard. - Geehaet.
+Word. - Ghar.
+Sword. - Gláeddyv.
+Glamour. - Glamarye.
+Bottom. - Glean.
+Low. - Glean.
+Valley's. - Gleanna.
+Of valleys. - Gleanna.
+Glory. - Gloir.
+To look. - Glosse.
+Watch. - Glosse.
+Stare. - Glosse.
+Mistress. - Gvaern.
+Falcon. - Gvalch'ca.
+White. - Wen.
+Wind. - Gwent.
+Alabaster. - Gwennelen.
+Sycamore maple. - Gwyd.
+White wolf. - Gwynbleidd.
+Ice. - Gynvael.
+Greeting. - Hael.
+Health. - Hael.
+Medicine. - Haela.
+Drug. - Haela.
+Unit. - Hanse.
+Armed group of friends. - Hanse.
+Gang. - Hanse.
+Hawker. - Hav'caaren.
+Old. - Hen.
+Oldest. - Hen.
+Herb. - Herba.
+It. - Het.
+That. - Que.
+Sprouting. - Imbaelk.
+Island. - Inis.
+Winter. - Invaerne.
+Kelpie. - Kelpie.
+Lake. - Loc'h.
+Lady. - Laith.
+Seagull. - Lara.
+Painting. - Ledwedd.
+Lioness. - Lionors.
+Maturing. - Llamas.
+Language. - Llinge.
+Tongue. - Llinge.
+Hate. - Loa'then.
+Lady of the lake. - Loc'hlaith.
+Daughter. - Luned.
+Young girl. - Luned.
+Daughter / young girl. - Luned.
+Girl. - Luned.
+Dies. - Marw.
+Die. - Marw.
+Me. - Me.
+My. - Me.
+Mine. - Me.
+Meet. - Meáth.
+Middle. - Mid-.
+In the middle of. - Mid-.
+Kite. - Milva.
+Look. - Mire.
+Observe. - Mire.
+Waxwing. - Mistle.
+Or mistle thrush. - Mistle.
+Also one of the rats. - Mistle.
+Love. - Minne.
+Mother. - Modron.
+Book. - Morc.
+Tome. - Morc.
+Sea. - Muire.
+Or. - Na.
+Nine of. - Naev'de.
+No. - Neén.
+Not. - Neén.
+Am i wrong. - Nell'ea.
+We. - Ninnau.
+Us. - Ninnau.
+Ourselves. - Ninnau.
+Earth. - Nolla.
+Do not. - N'te.
+Ape. - Pavienn.
+Pestilence. - Pest.
+Plague. - Pest.
+Blight. - Pest.
+Halfling. - Pherian.
+Hobbit. - Pherian.
+Bridge. - Pont.
+Run. - Raenn.
+Queen. - Rhena.
+Queen's daughter/son. - Rhenawedd.
+Prince. - Rhenawedd.
+Princess. - Rhenawedd.
+King. - Rhon.
+Redanian. - Roethainne.
+Riders. - Ruadhri.
+Horsemen. - Ruadhri.
+To pray. - Salah.
+Spirit. - Saov.
+Soul. - Saov.
+Ghost. - Saov.
+Squirrel. - Scoia'tael.
+Hill. - Seidh.
+Mound. - Seidh.
+Of hills. - Seidhe.
+Hill's. - Seidhe.
+Sing. - Shaent.
+Elf. - Sidh.
+Sleigh. - Sledd.
+Little sister. - Sor'ca.
+Shoot. - Spar.
+Fire. - Spar'le.
+Attack. - Spar'le.
+Excuse. - Squaess.
+Forgive. - Squaess.
+Road. - Stráede.
+Path. - Stráede.
+To sing. - Sh'aente.
+Bard. - Taedh.
+Poet. - Taedh.
+You. - Thu.
+Fear. - Tearth.
+Time. - Tedd.
+Age. - Tedd.
+Season. - Tedd.
+Shut up. - Thaesse.
+Land. - Tir.
+Ground. - Tir.
+Country. - Tir.
+Wild boar. - Tirth.
+Tower. - Tor.
+Power. - Treise.
+Strength. - Treise.
+Vigour. - Treise.
+Whisper. - Tuathe.
+Twelve. - Tvedeane.
+Dozen. - Tvedeane.
+Two. - Twe.
+Union. - Uniade.
+Uniting. - Uniade.
+Joining. - Uniade.
+Merger. - Uniade.
+Go. - Va.
+Trip. - Va'en.
+Journey. - Va'en.
+Hope. - Vaer'trouv.
+Trust. - Vaer'trouv.
+Goodbye. - Va fáill.
+Farewell. - Va fáill.
+Wares. - Vara.
+Goods. - Vara.
+Bitch. - Varh'he.
+Witcher. - Vatt'ghern.
+Fast. - Veloë.
+Quick. - Veloë.
+Quickly. - Veloë.
+Death. - Vhóel.
+Stop. - Voe'rle.
+Halt. - Voe'rle.
+Door. - Vond.
+Further. - Vort.
+Away. - Vort.
+Wyvern. - Vyverne.
+Child. - Wedd.
+Diminutive form of 'wedd' - Weddin.
+Child. - Weddin.
+Kiddo. - Weddin.
+Wood. - Woed.
+Wood1 - Woéd.
+Wood2 - Woedd.
+Yes. - Yeá.
+So. - Yeá.
+Giant centipede. - Yghern.
+Combat. - Ymladda.
+Fight. - Ymladda.
+Over. - Yn.
+Upon. - Yn.
+One. - Yn.
+Downward. - Ys.
+From below. - Ys.
+Shit. - Ysgarthiad.
+Excretion. - Ysgarthiad.
+To rise. - Zael.
+Swallow. - Zireael.
+Chaos. - Zuirseime.
+Swear. - Zvaere.
+Here. - 'ere.
+Elder. - Hen.
+Up. - Aep.
+Cintra. - Xin'trea.
+Elder blood. - Hen ichaer.
+Shard of ice. - Aedd gynvael.
+Practices for a young bard. - Aen n'og mab taedh'morc.
+Alder folk. - Aen elle.
+People of the alders. - Aen elle.
+Sage. - Aen saevherne.
+People of the hill. - Aen seidhe.
+Hill folk. - Aen seidhe.
+Woman of the woods. - Aen woedbeanna.
+Baptism of fire. - Aenyell'hael.
+River of alabaster bridges. - Aevon y pont ar gwennelen.
+River of alabaster pontar. - Aevon y pont ar gwennelen.
+Sycamore mountain. - Ard gwyd.
+High rock. - Ard carraigh.
+Rite of naming. - Aymm rhoin.
+Blossoming. - Belleteyn.
+Upper peak. - Ban ard.
+Lower peak. - Ban gleán.
+Brokilon. - Brokiloén.
+Black forest. - Caed dhu.
+Black grove  - Caed dhu.
+Myrkvid forest. - Caed myrkvid.
+Myrkvid grove. - Caed myrkvid.
+Kaer Morhen. - Caer a'muirehen.
+Old sea keep. - Caer a'muirehen.
+Point of vigour. - Ceann treise.
+Small rock - Craag an.
+Valley of the adalatte river. - Dol adalatte.
+Valley of the flowers. - Dol blathanna.
+The place of the oak. - Duén canell.
+White river. - Glyswen.
+Bloody mistress. - Gvaern ichaer.
+River: white stones. - Gwenllech.
+Fortress: white flame. - Gwendeith.
+White wolf. - Gwynbleidd.
+Imbolc. - Imbaelk.
+Germination. - Imbaelk.
+Maria. - Mear'ya.
+Mary. - Mear'ya.
+Midsummer. - Midaëte.
+Midwinter. - Midinvaerne.
+Mirt. - Mirthe.
+Drowner. - Muire d'yaeblen.
+Eye of the mountain. - Seidhe llygad.
+Shaerra's child. - Shaerrawedd.
+Tower of the seagulls. - Tor lara.
+Gulls' tower. - Tor lara.
+Tower of the swallow. - Tor zireael.
+swallow's tower. - Tor zireael.
+By my sword, i swear blood oath, the highest queen, lioness of cintra! - Aen me glaeddyv, zvaere a bloedgeas, ard rhena, lionors aep xintra!
+Conquer with courage rather than strength. - Ayd f'haeil moen hirjeth taenverde.
+A devil up your arse. - A d'yaebl aép arse.
+Bloody plague. - Bloede pest.
+Calm, everyone! - Caelm, evellienn!
+Come here! - Caemm 'ere!
+Give me a kiss? - Caen me a'baethe?
+Greetings, child of brokilon! - Ceádmil, wedd brokiloéne!
+Lovely weather we're having. - Elaine tedd a'taeghane.
+Aa nice time today. - Elaine tedd a'taeghane.
+Little love. - En'ca minne.
+Sing me a song about... - Ess've vort shaente aen...
+Sun's blood. - Feainne ichaer.
+Watch out! do not go in there! - Gar'ean! n'te va!
+Drop the sword, woman. - Glaeddyv vort, beanna.
+Drop the swords! - Glaeddyvan vort!
+Curse of the sea. - Geas muire.
+Swallow's herb. - Herba zireael.
+Another place, another time. - Ire lokke, ire tedd.
+Paintings should convey emotions, not words. - Ledwedd varlledu cyall, no ghar.
+Lambert can kiss me in the ass. - Lambert caen me a'baeth aep arse.
+Daughter of the elder blood. - Luned aep hen ichaer.
+Do not shoot me. - N'aen aespar a me.
+Let sleeping arachasae lie. - N'aracche aen woed endicen.
+No way. you're an ape, elf. - Nell'ea. t'en pavienn, aen seidhe.
+Do not let them escape. - Ni'l ceim siaar.
+Do not say anything. - N'te dice'en.
+Do not go. - N'te va.
+Do not stop. - N'te va.
+Do not halt. - N'te va.
+Are you going to shoot me or what? - M'aespar que va'en, ell'ea?
+Show me your goods. - Mir' me vara.
+Good luck. - Maethe taerde.
+What are you looking at? - Que glosse?
+You're just an ape, yeah? - Que l'en pavienn, ell'ea?
+What is going on? - Que suecc's?
+Excuse me. - Squass'me.
+Rise up. - Zaeleill aep.
+Forgive me. - Squass'me.
+Shut up. - Thaess aep.
+Beautiful flower. - Elaine blath, feainnewedd.
+Sun child. - Feainnewedd, elaine blath
+Dream of a calm time. - Dearme aen a'caelme tedd.
+Dream in a calm time. - Dearme aen a'caelme tedd.
+Everyone must end. - Eigean evelienn deireadh.
+Thus it will be, gone you are. - Que'n esse, va en esseath.
+
+The weather today is beautiful, so let's get the sleigh. - Elaine tedd a'taeghane, a va'en aesledde.
+What would you say to me, daisy? forsake them? in vain? - Que'ss aen me dicette, enid? vorsaeke'llan? aen vaine?
+My glare will pierce through darkness, my brightness will scatter the shadow. - Dubhenn haern am glândeal, morc'h am fhean aiesin.
+The sword of destiny has two edges. you are one of them. - Duettaeánn aef cirrán cáerme gláeddyv. yn á esseáth.
+What are you saying to me, daisy? forsake them? in vain? - Que'ss aen me dicette, enid? vorsaeke'llan? aen vaine?
+Get away from me, human. i won't say anything to you. - Va vort a me, dh'oine. n'aen te a dice'n.
+We will go for a sleigh ride, alright? - Va'en aesledde, ell'ea?
+Something ends, something begins. - Va'esse deireádh aep eigean, va'esse eigh faidh'ar.
+I give you my heart. but i shall take your head. - Aen verelith cyrre naid. ader eich blaen eide'me.
+Not every scoia'tael is dead. come to the woods, all aen seidhe. discover and join us. fight the humans. it is time, it will be the place. - Neen evelienn scoia'tael marw. cáemm aep woedd, holl aen seidhe. darganfod an uniade ninnau. ymladda dh'oine. ess'tedd, esse creasa.
+Salvation lies not in dol naev'de but in our hearts. glory be to aelirenn. - Ellas k'havani allder aen dol naev'de, ellas allder n'corrason. glorsann a'aelirenn.

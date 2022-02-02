@@ -1,0 +1,65 @@
+Verbs: to be | to have
+
+I allowed it. He claims he knows the child.
+I(PRP|NNP) allowed(VBN|JJ|VBD) it(PRP).
+He(PRP|NNP) claims(NNS|VBZ) he(PRP|VB) knows(VBZ) the(DT|VBD|VBP|NN|IN|JJ|NNP|PDT) child(NN).
+
+I it-have allowed. He claims that-he knows child.
+A t'ave thembente. Het dike kwe't veshen wed.
+--
+In brokilon, she can be molded. She can become one of us.
+In(IN|RBR|JJ|NNP) brokilon(undefined), she(PRP) can(MD|NN|VB) be(VB|VBN|VBP) molded(VBN|JJ|VBD).
+She(PRP|NN) can(MD|NN|VB) become(VB|VBD|VBN|VBP) one(CD) of(IN|RB|RP|NNP) us(PRP).
+
+In brokilon, she can be molded. She can become one of us.
+Yn brokilon, het keine eipmeikil. Het keine einkeim yn ein'en.
+--
+We'll find another way to survive. We always do.
+We find will another path to surviving. Always is-it like-that.
+Nina hul en ire streid a epiveishen. Evelig es't enet.
+--
+Who enters our forest?
+Who(WP|NNP|PRP) enters(VBZ) our(PRP$) forest(NN|VB)? 
+
+Who enters our forest?
+Kwya eipkeime en wöda?
+--
+The girl's a liability.
+Girl is liability.
+Lund es perthekyn.
+--
+They're moving north, taking land.
+They travel north, taking land.
+Lan yndröshe nörd, felbenen tir.
+--
+
+Key Points
+
+- replace a, do, does, did, 
+- undefined lexicon output means incorrect spelling, foregin word, personal pronoun or noun name
+- Remove all verb adjective nouns (JJ|VB|NN)
+- if (PRP | NNP) - VB - (PRP | NNP):
+    if VB is VBN or VBD:
+        pass PRP-have, remove the PRP after VB only if not NNP
+    else
+        ignore
+
+
+I have(JJ|VB|NN...) allowed it
+I allowed it
+I it-have allowed
+I t'ave thembente
+
+I allowed it
+I it-have allowed
+I t'ave thembente
+
+Henry did allow it
+Henry it-allow
+Henry t'akein
+
+Henry allowed Santi
+Henry allowed Santi
+Henry eivith thembente Santi
+
+allowed = VBN|JJ|VBD

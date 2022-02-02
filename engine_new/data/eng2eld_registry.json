@@ -1,0 +1,4695 @@
+{
+  "phrases": {
+    "to not fit in": "aveil nol",
+    "to not belong": "aveil nol",
+    "to not go well": "aveil nol",
+    "ah": "aa, es me kempte, me zol grasha",
+    "got it": "aa, es me kempte, me zol grasha",
+    "thanks so much": "aa, es me kempte, me zol grasha",
+    "to another winter": "a ire inveirne, ynilyshil",
+    "together": "a ire inveirne, ynilyshil",
+    "give live love": "don veish mein",
+    "damn it": "blödei dung",
+    "shit": "blödei dung",
+    "crap": "blödei dung",
+    "bloody shit": "blödei dung",
+    "freeze": "bythkwe",
+    "beasts in the woods": "drelka eip wöda",
+    "from the hill": "ein shi",
+    "why is": "enkwe's't",
+    "why's": "enkwe's't",
+    "no one is ever what they see": "es nyn ynig kwe't themmone",
+    "you made it back": "eseith eipkölte irig",
+    "always ask the right questions": "evelig ur kerve urme",
+    "sunday market": "feintei saren",
+    "steal and lose a hand!": "felben i felhelsh peir!",
+    "beware the den of my dead": "garein veith eip me volynath",
+    "caution after dark": "garein eifter murm",
+    "beware the scoia'tael": "garein skwatel",
+    "man on horse tavern": "gram eip eval veldwyn",
+    "icy clouds swirling about mighty towers": "gynveilei zefen eip zolke torana",
+    "elder races not allowed": "hen strena nein thembenil",
+    "it's time to go home": "hig a vein a mor es kempte",
+    "winter is coming": "inveirne keime",
+    "hi": "keid",
+    "hello": "keidmil",
+    "greetings": "keidmil",
+    "come back": "keim irig",
+    "return": "keim irig",
+    "the burden of power can be painful": "keinme köln kein yn felbreis",
+    "maybe": "kents",
+    "perhaps": "kents",
+    "it can be": "kaen's",
+    "it may be": "kaen's",
+    "what are you?": "kw'eseith",
+    "what is": "kwe's't",
+    "what's": "kwe's't",
+    "what is your name?": "kwe's't te lothe?",
+    "who are you?": "kwyn eseith?",
+    "thank you": "me grasha",
+    "thanks": "grasha",
+    "my name is...": "me lothe...",
+    "i'm called...": "me lothe...",
+    "my love": "'me mine",
+    "no": "nein",
+    "not": "nein",
+    "prohibited forms of witchcraft": "ne'thembenshil meika eip vatyrm",
+    "town fair": "rone pareil",
+    "fuck": "shik",
+    "you shut up": "theis ath eip",
+    "announcement of birth of royal": "thendikem ein apurm ein ronei owen",
+    "nobility heir": "thendikem ein apurm ein ronei owen",
+    "announcement of local miracle": "thendikem ein einilei wöndrel",
+    "obey the law": "thenveid'eth relga",
+    "goodbye": "va feil",
+    "farewell": "va feil",
+    "something ends": "veise deireid eip eigein",
+    "something begins": "veise eig faidar",
+    "capital punishment crimes": "volei gathreisen felnymyn",
+    "deathless mother": "voleth meir",
+    "open the door": "vond agwethil",
+    "yes": "yei",
+    "yeah": "yei",
+    "rape is punished by castration": "ysfenme gathreishil ein eipkwysme ein sapin",
+    "chaos is power": "zurshem es keinme",
+    "from the chaos granted unto you": "ein zurshem kwe't eif t'yndonshil, keilme a't te os done, enstred en donet keinme eipkeimen",
+    "peace i now give you": "ein zurshem kwe't eif t'yndonshil, keilme a't te os done, enstred en donet keinme eipkeimen",
+    "as you give us power in return": "ein zurshem kwe't eif t'yndonshil, keilme a't te os done, enstred en donet keinme eipkeimen",
+    "ignite to life": "anain a veishme, aneinye a vol",
+    "burn to death": "anain a veishme, aneinye a vol",
+    "grown in darkness": "anymbreishil ys murm, ankeim eir murm",
+    "bring forth darkness": "anymbreishil ys murm, ankeim eir murm",
+    "rise from the earth and return to the earth": "zeil eip ein nola i va irig a nola"
+  },
+  "custom": {
+    "castration": {
+      "v": "eipkwysme ein sapin",
+      "t": "v"
+    },
+    "punished": {
+      "v": "gathreishil",
+      "t": "v"
+    },
+    "is punished": {
+      "v": "gathreishil ein",
+      "t": "v"
+    },
+    "kiss": {
+      "v": "a'baeth",
+      "t": "v"
+    },
+    "to kiss": {
+      "v": "a'baeth",
+      "t": "v"
+    },
+    "mouth": {
+      "v": "abb",
+      "t": "n"
+    },
+    "dance": {
+      "v": "adan",
+      "t": "v"
+    },
+    "dancer": {
+      "v": "adan",
+      "t": "v"
+    },
+    "dancing": {
+      "v": "addan",
+      "t": "v"
+    },
+    "forward": {
+      "v": "adhart",
+      "t": "adv"
+    },
+    "shard": {
+      "v": "aedd",
+      "t": "n"
+    },
+    "piece": {
+      "v": "aedd",
+      "t": "n"
+    },
+    "has": {
+      "v": "eif",
+      "t": "prep"
+    },
+    "in": {
+      "v": "eif",
+      "t": "prep"
+    },
+    "to": {
+      "v": "eif",
+      "t": "prep"
+    },
+    "out of": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "at": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "by": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "down": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "into": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "until": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "on": {
+      "v": "yn",
+      "t": "prep"
+    },
+    "excretion": {
+      "v": "ysgarthiad",
+      "t": "v"
+    },
+    "wyvern": {
+      "v": "vyverne",
+      "t": "n"
+    },
+    "bitch": "varh'he",
+    "whore ()": "varh'he",
+    "to excuse": {
+      "v": "squaess",
+      "t": "v"
+    },
+    "to forgive": {
+      "v": "squaess",
+      "t": "v"
+    },
+    "to attack": {
+      "v": "spar'le",
+      "t": "v"
+    },
+    "to fire": {
+      "v": "spar'le",
+      "t": "v"
+    },
+    "elf": {
+      "v": "sidh",
+      "t": "n"
+    },
+    "to sing": {
+      "v": "shaent",
+      "t": "v"
+    },
+    "ghost": {
+      "v": "saov",
+      "t": "n"
+    },
+    "soul": {
+      "v": "saov",
+      "t": "n"
+    },
+    "to pray ()": "salah",
+    "redanian": {
+      "v": "roethainne",
+      "t": "adj"
+    },
+    "riders": {
+      "v": "ruadhri",
+      "t": "n"
+    },
+    "horsemen": {
+      "v": "ruadhri",
+      "t": "n"
+    },
+    "queen": {
+      "v": "rhena",
+      "t": "n"
+    },
+    "ape": {
+      "v": "pavienn",
+      "t": "n"
+    },
+    "halfling": {
+      "v": "pherian",
+      "t": "n"
+    },
+    "hobbit": {
+      "v": "pherian",
+      "t": "n"
+    },
+    "bridge": {
+      "v": "pont",
+      "t": "n"
+    },
+    "sea": {
+      "v": "muire",
+      "t": "n"
+    },
+    "tome": {
+      "v": "morc",
+      "t": "n"
+    },
+    "book": {
+      "v": "morc",
+      "t": "n"
+    },
+    "waxwing": {
+      "v": "mistle",
+      "t": "n"
+    },
+    "in the middle of": {
+      "v": "mid",
+      "t": "adj"
+    },
+    "middle": {
+      "v": "mid",
+      "t": "adj"
+    },
+    "painting": {
+      "v": "Ledwedd",
+      "t": "n"
+    },
+    "island": {
+      "v": "inis",
+      "t": "n"
+    },
+    "sprouting": {
+      "v": "Imbaelk",
+      "t": "n"
+    },
+    "herb": {
+      "v": "herba",
+      "t": "n"
+    },
+    "gang": {
+      "v": "hanse",
+      "t": "n"
+    },
+    "unit": {
+      "v": "hanse",
+      "t": "n"
+    },
+    "drug": {
+      "v": "hael",
+      "t": "n"
+    },
+    "medicine": [
+      {
+        "v": "hael",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "haela",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "wind": {
+      "v": "gwent",
+      "t": "n"
+    },
+    "falcon": {
+      "v": "gvalch'ca",
+      "t": "n"
+    },
+    "mistress": {
+      "v": "gvaern",
+      "t": "n"
+    },
+    "watch": {
+      "v": "glosse",
+      "t": "v"
+    },
+    "stare": {
+      "v": "glosse",
+      "t": "v"
+    },
+    "glory": {
+      "v": "gloir",
+      "t": "n"
+    },
+    "low": {
+      "v": "glean",
+      "t": "adj"
+    },
+    "bottom": {
+      "v": "glean",
+      "t": "adj"
+    },
+    "charming": {
+      "v": "ensh'eass",
+      "t": "adj"
+    },
+    "enchanting": {
+      "v": "ensh'eass",
+      "t": "adj"
+    },
+    "glamorous": {
+      "v": "ensh'eass",
+      "t": "adj"
+    },
+    "enthralling": {
+      "v": "ensh'eass",
+      "t": "adj"
+    },
+    "daisy": {
+      "v": "enid",
+      "t": "n"
+    },
+    "tired": {
+      "v": "en'leass",
+      "t": "adj"
+    },
+    "whisper": {
+      "v": "tuathe",
+      "t": "v"
+    },
+    "swear": {
+      "v": "zvaere",
+      "t": "v"
+    },
+    "delta": {
+      "v": "abb",
+      "t": "n"
+    }
+  },
+  "madeup": {
+    "final": {
+      "v": "ceann",
+      "t": "adj"
+    },
+    "house": [
+      {
+        "v": "caer",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "caer",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "breath": {
+      "v": "kess",
+      "t": "n"
+    },
+    "breathe": {
+      "v": "soeh",
+      "t": "v"
+    }
+  },
+  "numbers": {
+    "one": "yn",
+    "two": "tfe",
+    "three": "drav",
+    "four": "kweth",
+    "five": "kwen",
+    "six": "shi",
+    "seven": "shif",
+    "eight": "oz",
+    "nine": "neivde",
+    "ten": "dein",
+    "eleven": "nining",
+    "twelve": "ninkan",
+    "thirteen": "ninzu",
+    "fourteen": "ninpin",
+    "fifteen": "zurop",
+    "sixteen": "zurping",
+    "seventeen": "zurkan",
+    "eighteen": "kanyuzol",
+    "nineteen": "inyuzol",
+    "twenty": "zol",
+    "twenty one": "zol ing",
+    "thirty": "zunen",
+    "fourty": "kanzol",
+    "fifty": "nendrep",
+    "fixty": "zuzol nen",
+    "seventy": "zuzol nen",
+    "seventy one": "zuzol nining",
+    "eighty": "zolyuvan",
+    "ninety": "nenyuvan",
+    "one hundread": "van"
+  },
+  "plants": {
+    "dandelion": {
+      "v": "neirblath",
+      "t": "n"
+    },
+    "hawthorn": {
+      "v": "blödluyen",
+      "t": "n"
+    },
+    "rhodiola": {
+      "v": "blödekstern",
+      "t": "n"
+    },
+    "maca": {
+      "v": "lingered",
+      "t": "n"
+    },
+    "maca root": {
+      "v": "lingered",
+      "t": "n"
+    },
+    "dragon's blood": {
+      "v": "deithrelk ikeir",
+      "t": "n"
+    },
+    "cat's claw": {
+      "v": "romyn zal",
+      "t": "n"
+    },
+    "cats claw": {
+      "v": "romyn zal",
+      "t": "n"
+    },
+    "witch hazel": [
+      {
+        "v": "vatrush",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "vatrusha",
+        "t": [
+          "n",
+          "plural"
+        ]
+      }
+    ],
+    "burdock root": {
+      "v": "dolekstern",
+      "t": "n"
+    },
+    "white skaneroot": {
+      "v": "gwyn gerdered",
+      "t": "n"
+    },
+    "deadly nightshade": {
+      "v": "volei murveine",
+      "t": "n"
+    },
+    "water hemlock": {
+      "v": "ulfinekstern",
+      "t": "n"
+    }
+  },
+  "potions": {
+    "graviola": {
+      "v": "hein wöndrel",
+      "t": "n"
+    },
+    "moringa": {
+      "v": "brölth",
+      "t": "n"
+    },
+    "jergón sacha": {
+      "v": "velys tolv",
+      "t": "n"
+    },
+    "tumeric": {
+      "v": "feinered",
+      "t": "n"
+    },
+    "nettle": {
+      "v": "hil thempeikyn",
+      "t": "n"
+    },
+    "glyconda": {
+      "v": "grösh tolv",
+      "t": "n"
+    },
+    "manuka oil": {
+      "v": "zerynym",
+      "t": "n"
+    },
+    "horsetail": {
+      "v": "romynböi",
+      "t": "n"
+    },
+    "henbane": {
+      "v": "pelysnym",
+      "t": "n"
+    },
+    "mandrake": {
+      "v": "kernthevyn",
+      "t": "n"
+    }
+  },
+  "dictionary": {
+    "there": {
+      "v": "aa",
+      "t": "adv"
+    },
+    "in that place": {
+      "v": "aa",
+      "t": "adv"
+    },
+    "to": {
+      "v": "a",
+      "t": "prep"
+    },
+    "toward": {
+      "v": "a",
+      "t": "prep"
+    },
+    "towards": {
+      "v": "a",
+      "t": "prep"
+    },
+    "for": [
+      {
+        "v": "a",
+        "t": [
+          "prep"
+        ]
+      },
+      {
+        "v": "ein",
+        "t": [
+          "prep"
+        ]
+      },
+      {
+        "v": "yn",
+        "t": [
+          "prep"
+        ]
+      }
+    ],
+    "already": {
+      "v": "adem",
+      "t": "adv"
+    },
+    "to open": {
+      "v": "adweth",
+      "t": "v"
+    },
+    "opened": {
+      "v": "eif agwethte",
+      "t": "v"
+    },
+    "to opens": {
+      "v": "adwethil",
+      "t": "v"
+    },
+    "to heal": {
+      "v": "aheil",
+      "t": "v"
+    },
+    "light": {
+      "v": "ain",
+      "t": "v"
+    },
+    "enlightened": {
+      "v": "ain",
+      "t": "v"
+    },
+    "to enable": {
+      "v": "akein",
+      "t": "v"
+    },
+    "to allow": [
+      {
+        "v": "akein",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "themben",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "enabled": {
+      "v": "eif akeide",
+      "t": "v"
+    },
+    "allowed": {
+      "v": "eif akeide",
+      "t": "v"
+    },
+    "to burst": {
+      "v": "aks",
+      "t": "v"
+    },
+    "to explode": {
+      "v": "aks",
+      "t": "v"
+    },
+    "bursted": {
+      "v": "es ekste",
+      "t": "v"
+    },
+    "exploded": {
+      "v": "es ekste",
+      "t": "v"
+    },
+    "to blow up": {
+      "v": "aks eip",
+      "t": "v"
+    },
+    "to ignite": {
+      "v": "anain",
+      "t": "v"
+    },
+    "to burn": {
+      "v": "aneinye",
+      "t": "v"
+    },
+    "to inflict": {
+      "v": "eif anelsh",
+      "t": "v"
+    },
+    "to enact": {
+      "v": "eif anelsh",
+      "t": "v"
+    },
+    "to cause to befall": {
+      "v": "eif anelsh",
+      "t": "v"
+    },
+    "to make happen": {
+      "v": "eif anelsh",
+      "t": "v"
+    },
+    "inflicted": {
+      "v": "eif anelshte",
+      "t": "v"
+    },
+    "enacted": {
+      "v": "eif anelshte",
+      "t": "v"
+    },
+    "cursed to befall": {
+      "v": "eif anelshte",
+      "t": "v"
+    },
+    "made happen": {
+      "v": "eif anelshte",
+      "t": "v"
+    },
+    "spy": {
+      "v": "angivyr",
+      "t": "n"
+    },
+    "informer": {
+      "v": "angivyr",
+      "t": "n"
+    },
+    "to bring": {
+      "v": "ankeim",
+      "t": "v"
+    },
+    "to take": [
+      {
+        "v": "ankeim",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "ben",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "to transport": {
+      "v": "ankeim",
+      "t": "v"
+    },
+    "to make come": {
+      "v": "ankeim",
+      "t": "v"
+    },
+    "to make arrive": {
+      "v": "ankeim",
+      "t": "v"
+    },
+    "brought": {
+      "v": "es ankempte",
+      "t": "v"
+    },
+    "taken": [
+      {
+        "v": "es ankempte",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "es ankempte",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "transported": {
+      "v": "es ankempte",
+      "t": "v"
+    },
+    "made to come": {
+      "v": "es ankempte",
+      "t": "v"
+    },
+    "made to arrive": {
+      "v": "es ankempte",
+      "t": "v"
+    },
+    "to grow": {
+      "v": "anymbreish",
+      "t": "v"
+    },
+    "to grown": {
+      "v": "anymbreishil",
+      "t": "v"
+    },
+    "to break": {
+      "v": "aperthe",
+      "t": "v"
+    },
+    "to ruin": {
+      "v": "aperthe",
+      "t": "v"
+    },
+    "broken": [
+      {
+        "v": "eif aperthete",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "perthe",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "ruined": [
+      {
+        "v": "eif aperthete",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "perthe",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "to bear": {
+      "v": "apur",
+      "t": "v"
+    },
+    "to give birth to": {
+      "v": "apur",
+      "t": "v"
+    },
+    "bared": {
+      "v": "eif apurte",
+      "t": "v"
+    },
+    "birthed": {
+      "v": "eif apurte",
+      "t": "v"
+    },
+    "birth": {
+      "v": "apurm",
+      "t": "n"
+    },
+    "mountain": {
+      "v": "ard",
+      "t": "n"
+    },
+    "upper": {
+      "v": "ard",
+      "t": "adj"
+    },
+    "top": {
+      "v": "ard",
+      "t": "adj"
+    },
+    "first": [
+      {
+        "v": "ardei",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "yshtei",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "primary": [
+      {
+        "v": "ardei",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "yshtei",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "to promise": {
+      "v": "asher",
+      "t": "v"
+    },
+    "promised": {
+      "v": "asheril",
+      "t": "v"
+    },
+    "to hide": {
+      "v": "ashindre",
+      "t": "v"
+    },
+    "to obscure": {
+      "v": "ashindre",
+      "t": "v"
+    },
+    "hid": {
+      "v": "eif ashindrete",
+      "t": "v"
+    },
+    "obscured": [
+      {
+        "v": "eif ashindrete",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "shindre",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "had": [
+      {
+        "v": "at",
+        "t": [
+          "v",
+          "1p",
+          "singular",
+          "past"
+        ]
+      },
+      {
+        "v": "at",
+        "t": [
+          "v",
+          "3p",
+          "singular",
+          "past"
+        ]
+      },
+      {
+        "v": "ein",
+        "t": [
+          "v",
+          "1p",
+          "plural",
+          "past"
+        ]
+      },
+      {
+        "v": "eik",
+        "t": [
+          "v",
+          "2p",
+          "plural",
+          "past"
+        ]
+      },
+      {
+        "v": "eil",
+        "t": [
+          "v",
+          "3p",
+          "plural",
+          "past"
+        ]
+      },
+      {
+        "v": "eith",
+        "t": [
+          "v",
+          "2p",
+          "singular",
+          "past"
+        ]
+      },
+      {
+        "v": "vente",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "today": {
+      "v": "a'taeghane",
+      "t": "adv"
+    },
+    "to send": {
+      "v": "ava",
+      "t": "v"
+    },
+    "to cause to go": {
+      "v": "ava",
+      "t": "v"
+    },
+    "sent": {
+      "v": "eif avante",
+      "t": "v"
+    },
+    "gone": {
+      "v": "avanshil",
+      "t": "v"
+    },
+    "dead": [
+      {
+        "v": "avanshil",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "einvolen",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "volynath",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "passed away": {
+      "v": "avanshil",
+      "t": "v"
+    },
+    "to poison": {
+      "v": "aveil",
+      "t": "v"
+    },
+    "poisoned": {
+      "v": "eif avelte",
+      "t": "v"
+    },
+    "to feed": {
+      "v": "avreid",
+      "t": "v"
+    },
+    "all": {
+      "v": "awen",
+      "t": "delim"
+    },
+    "all of": {
+      "v": "awen",
+      "t": "delim"
+    },
+    "circle": {
+      "v": "bar",
+      "t": "n"
+    },
+    "woman": {
+      "v": "beina",
+      "t": "n"
+    },
+    "women": {
+      "v": "beinan",
+      "t": "n"
+    },
+    "to squeeze": {
+      "v": "beish",
+      "t": "v"
+    },
+    "to press": {
+      "v": "beish",
+      "t": "v"
+    },
+    "to compress": {
+      "v": "beish",
+      "t": "v"
+    },
+    "squeezed": {
+      "v": "eif beshte",
+      "t": "v"
+    },
+    "pressed": {
+      "v": "eif beshte",
+      "t": "v"
+    },
+    "compressed": {
+      "v": "eif beshte",
+      "t": "v"
+    },
+    "to grab": {
+      "v": "ben",
+      "t": "v"
+    },
+    "to grasp": {
+      "v": "ben",
+      "t": "v"
+    },
+    "took": {
+      "v": "eif bente",
+      "t": "v"
+    },
+    "grabbed": {
+      "v": "eif bente",
+      "t": "v"
+    },
+    "grasped": {
+      "v": "eif bente",
+      "t": "v"
+    },
+    "birch": {
+      "v": "birke",
+      "t": "n"
+    },
+    "birch tree": {
+      "v": "birke",
+      "t": "n"
+    },
+    "flower": {
+      "v": "blath",
+      "t": "n"
+    },
+    "bloom": {
+      "v": "blath",
+      "t": "n"
+    },
+    "flowers": {
+      "v": "blathana",
+      "t": "n"
+    },
+    "blooms": {
+      "v": "blathana",
+      "t": "n"
+    },
+    "wolf": {
+      "v": "bleid",
+      "t": "n"
+    },
+    "bloody": {
+      "v": "blödei",
+      "t": "adj"
+    },
+    "tail": {
+      "v": "böi",
+      "t": "n"
+    },
+    "tails": {
+      "v": "böyana",
+      "t": "n"
+    },
+    "food": {
+      "v": "breith",
+      "t": "n"
+    },
+    "brokilon forest": {
+      "v": "brokilon",
+      "t": "n"
+    },
+    "moringa tree": {
+      "v": "brölth",
+      "t": "n"
+    },
+    "to end": {
+      "v": "dein",
+      "t": "v"
+    },
+    "flame": {
+      "v": "deith",
+      "t": "n"
+    },
+    "fire": [
+      {
+        "v": "deith",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "einye",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "dragon": {
+      "v": "deithrelk",
+      "t": "n"
+    },
+    "to search": {
+      "v": "del",
+      "t": "v"
+    },
+    "to seek": {
+      "v": "del",
+      "t": "v"
+    },
+    "to look for": {
+      "v": "del",
+      "t": "v"
+    },
+    "to obvserve": {
+      "v": "del",
+      "t": "v"
+    },
+    "searched": {
+      "v": "eif delte",
+      "t": "v"
+    },
+    "seeked": {
+      "v": "eif delte",
+      "t": "v"
+    },
+    "looked for": {
+      "v": "eif delte",
+      "t": "v"
+    },
+    "observed": {
+      "v": "eif delte",
+      "t": "v"
+    },
+    "quail": {
+      "v": "delme",
+      "t": "n"
+    },
+    "to say": {
+      "v": "dike",
+      "t": "v"
+    },
+    "to speak": {
+      "v": "dike",
+      "t": "v"
+    },
+    "to talk": {
+      "v": "dike",
+      "t": "v"
+    },
+    "to claim": {
+      "v": "dike",
+      "t": "v"
+    },
+    "said": {
+      "v": "eif dikete",
+      "t": "v"
+    },
+    "spoken": {
+      "v": "eif dikete",
+      "t": "v"
+    },
+    "spoke": {
+      "v": "eif dikete",
+      "t": "v"
+    },
+    "talked": {
+      "v": "eif dikete",
+      "t": "v"
+    },
+    "claimed": {
+      "v": "eif dikete",
+      "t": "v"
+    },
+    "dale": {
+      "v": "dol",
+      "t": "n"
+    },
+    "dell": {
+      "v": "dol",
+      "t": "n"
+    },
+    "vale": {
+      "v": "dol",
+      "t": "n"
+    },
+    "valley": {
+      "v": "dol",
+      "t": "n"
+    },
+    "to give": {
+      "v": "don",
+      "t": "v"
+    },
+    "gave": {
+      "v": "eif dinte",
+      "t": "v"
+    },
+    "face": {
+      "v": "drad",
+      "t": "n"
+    },
+    "identity": {
+      "v": "dradyrm",
+      "t": "n"
+    },
+    "weak": {
+      "v": "drei",
+      "t": "adj"
+    },
+    "weaker": {
+      "v": "dreinen",
+      "t": "adj"
+    },
+    "to fight": {
+      "v": "dreith",
+      "t": "v"
+    },
+    "to combat": {
+      "v": "dreith",
+      "t": "v"
+    },
+    "animal": {
+      "v": "drelk",
+      "t": "n"
+    },
+    "beast": {
+      "v": "drelk",
+      "t": "n"
+    },
+    "animals": {
+      "v": "drelka",
+      "t": "n"
+    },
+    "beasts": {
+      "v": "drelka",
+      "t": "n"
+    },
+    "dryads": {
+      "v": "dröyith",
+      "t": "n"
+    },
+    "shit": {
+      "v": "dung",
+      "t": "n"
+    },
+    "excrement": {
+      "v": "dung",
+      "t": "n"
+    },
+    "feces": {
+      "v": "dung",
+      "t": "n"
+    },
+    "wound": {
+      "v": "duweire",
+      "t": "n"
+    },
+    "injury": {
+      "v": "duweire",
+      "t": "n"
+    },
+    "human": [
+      {
+        "v": "dwan",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "dwanei",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "human being": {
+      "v": "dwan",
+      "t": "n"
+    },
+    "humane": {
+      "v": "dwanei",
+      "t": "adj"
+    },
+    "place": [
+      {
+        "v": "dwein",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "loke",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "to have": {
+      "v": "eif",
+      "t": "v"
+    },
+    "after": {
+      "v": "eifter",
+      "t": "adv"
+    },
+    "later": {
+      "v": "eifter",
+      "t": "adv"
+    },
+    "at": "eig",
+    "by": [
+      {
+        "v": "eig"
+      },
+      {
+        "v": "ein",
+        "t": [
+          "prep"
+        ]
+      }
+    ],
+    "near (?)": "eig",
+    "must (?)": "eigein",
+    "from": {
+      "v": "ein",
+      "t": "prep"
+    },
+    "of": [
+      {
+        "v": "ein",
+        "t": [
+          "prep"
+        ]
+      },
+      {
+        "v": "eip",
+        "t": [
+          "prep"
+        ]
+      }
+    ],
+    "with": {
+      "v": "ein",
+      "t": "prep"
+    },
+    "like": {
+      "v": "ein",
+      "t": "prep"
+    },
+    "as": {
+      "v": "ein",
+      "t": "prep"
+    },
+    "slowly": {
+      "v": "ein kelimme",
+      "t": "adv"
+    },
+    "exactly": {
+      "v": "ein kervem",
+      "t": "adv"
+    },
+    "when": {
+      "v": "ein ted",
+      "t": "conj"
+    },
+    "if": {
+      "v": "ein ted",
+      "t": "conj"
+    },
+    "at the time that": {
+      "v": "ein ted",
+      "t": "conj"
+    },
+    "at the moment that": {
+      "v": "ein ted",
+      "t": "conj"
+    },
+    "weather": {
+      "v": "ein ted",
+      "t": "n"
+    },
+    "local": {
+      "v": "einilei",
+      "t": "prep"
+    },
+    "nearby": {
+      "v": "einilei",
+      "t": "prep"
+    },
+    "to become": {
+      "v": "einkeim",
+      "t": "v"
+    },
+    "to come to be": {
+      "v": "einkeim",
+      "t": "v"
+    },
+    "became": {
+      "v": "es einkempte",
+      "t": "v"
+    },
+    "came to be": {
+      "v": "es einkempte",
+      "t": "v"
+    },
+    "origin": {
+      "v": "einpisme",
+      "t": "n"
+    },
+    "upon": [
+      {
+        "v": "eip",
+        "t": [
+          "prep"
+        ]
+      },
+      {
+        "v": "yn",
+        "t": [
+          "prep"
+        ]
+      }
+    ],
+    "in": [
+      {
+        "v": "eip",
+        "t": [
+          "prep"
+        ]
+      },
+      {
+        "v": "yn",
+        "t": [
+          "prep"
+        ]
+      }
+    ],
+    "to enter": {
+      "v": "eipkeim",
+      "t": "v"
+    },
+    "to go in": {
+      "v": "eipkeim",
+      "t": "v"
+    },
+    "entered": "es eipkempte",
+    "went in": "es eipkempte",
+    "gone in": "es eipkempte",
+    "entry": {
+      "v": "eipkeimen",
+      "t": "n"
+    },
+    "way in": {
+      "v": "eipkeimen",
+      "t": "n"
+    },
+    "entrance": {
+      "v": "eipkeimen",
+      "t": "n"
+    },
+    "to make it": {
+      "v": "eipkölte",
+      "t": "v"
+    },
+    "made it": {
+      "v": "es eipkölte",
+      "t": "v"
+    },
+    "to cut off": {
+      "v": "eipkwys",
+      "t": "v"
+    },
+    "to slice off": {
+      "v": "eipkwys",
+      "t": "v"
+    },
+    "to remove by cutting or slicing": {
+      "v": "eipkwys",
+      "t": "v"
+    },
+    "sliced off": {
+      "v": "eif eipkwyste",
+      "t": "v"
+    },
+    "cut off": {
+      "v": "eif eipkwyste",
+      "t": "v"
+    },
+    "cutting off": {
+      "v": "eipkwysme",
+      "t": "n"
+    },
+    "removal": {
+      "v": "eipkwysme",
+      "t": "n"
+    },
+    "to mold": {
+      "v": "eipmeik",
+      "t": "v"
+    },
+    "to form": {
+      "v": "eipmeik",
+      "t": "v"
+    },
+    "to give form to": {
+      "v": "eipmeik",
+      "t": "v"
+    },
+    "to shape": {
+      "v": "eipmeik",
+      "t": "v"
+    },
+    "to give shape to": {
+      "v": "eipmeik",
+      "t": "v"
+    },
+    "mold": {
+      "v": "eif eipmekte",
+      "t": "v"
+    },
+    "formed": {
+      "v": "eif eipmekte",
+      "t": "v"
+    },
+    "gave form to": {
+      "v": "eif eipmekte",
+      "t": "v"
+    },
+    "shaped": {
+      "v": "eif eipmekte",
+      "t": "v"
+    },
+    "gave shape": {
+      "v": "eif eipmekte",
+      "t": "v"
+    },
+    "to survive": {
+      "v": "eipveish",
+      "t": "v"
+    },
+    "to thrive": {
+      "v": "eipveish",
+      "t": "v"
+    },
+    "survived": {
+      "v": "es eipveshte",
+      "t": "v"
+    },
+    "thrived": {
+      "v": "es eipveshte",
+      "t": "v"
+    },
+    "here": {
+      "v": "eir",
+      "t": "adv"
+    },
+    "in this place": {
+      "v": "eir",
+      "t": "adv"
+    },
+    "every": {
+      "v": "eivel",
+      "t": "det"
+    },
+    "each": {
+      "v": "eivel",
+      "t": "det"
+    },
+    "have": [
+      {
+        "v": "ave",
+        "t": [
+          "v",
+          "1p",
+          "singular",
+          "present"
+        ]
+      },
+      {
+        "v": "aven",
+        "t": [
+          "v",
+          "1p",
+          "plural",
+          "present"
+        ]
+      },
+      {
+        "v": "eivik",
+        "t": [
+          "v",
+          "2p",
+          "plural",
+          "present"
+        ]
+      },
+      {
+        "v": "eivith",
+        "t": [
+          "v",
+          "2p",
+          "singular",
+          "present"
+        ]
+      },
+      {
+        "v": "avel",
+        "t": [
+          "v",
+          "3p",
+          "plural",
+          "present"
+        ]
+      }
+    ],
+    "alder": {
+      "v": "ele",
+      "t": "n"
+    },
+    "aim": {
+      "v": "eltren",
+      "t": "n"
+    },
+    "focus": {
+      "v": "eltrym",
+      "t": "n"
+    },
+    "patience": {
+      "v": "eltrym",
+      "t": "n"
+    },
+    "to aim": {
+      "v": "eltyr",
+      "t": "v"
+    },
+    "to focus": {
+      "v": "eltyr",
+      "t": "v"
+    },
+    "aimed": {
+      "v": "eif eltryte",
+      "t": "v"
+    },
+    "focused": {
+      "v": "eif eltryte",
+      "t": "v"
+    },
+    "any": {
+      "v": "enn",
+      "t": "det"
+    },
+    "like this": {
+      "v": "enet",
+      "t": "adv"
+    },
+    "like that": {
+      "v": "enet",
+      "t": "adv"
+    },
+    "thus": {
+      "v": "enet",
+      "t": "adv"
+    },
+    "why": {
+      "v": "enkwe",
+      "t": "adv"
+    },
+    "anyone": {
+      "v": "enyen",
+      "t": "pron"
+    },
+    "anything": {
+      "v": "enyen",
+      "t": "pron"
+    },
+    "was": {
+      "v": "er",
+      "t": [
+        "v",
+        "1p/3p",
+        "singular",
+        "past"
+      ]
+    },
+    "were": [
+      {
+        "v": "ereith",
+        "t": [
+          "v",
+          "2p",
+          "singular",
+          "past"
+        ]
+      },
+      {
+        "v": "erek",
+        "t": [
+          "v",
+          "2p",
+          "plural",
+          "past"
+        ]
+      },
+      {
+        "v": "erel",
+        "t": [
+          "v",
+          "3p",
+          "plural",
+          "past"
+        ]
+      },
+      {
+        "v": "eren",
+        "t": [
+          "v",
+          "1p",
+          "plural",
+          "past"
+        ]
+      }
+    ],
+    "to be": {
+      "v": "es",
+      "t": [
+        "v",
+        "infinitive"
+      ]
+    },
+    "am": {
+      "v": "esei",
+      "t": [
+        "v",
+        "1p",
+        "singular",
+        "present"
+      ]
+    },
+    "are": [
+      {
+        "v": "eseith",
+        "t": [
+          "v",
+          "2p",
+          "singular",
+          "present"
+        ]
+      },
+      {
+        "v": "esek",
+        "t": [
+          "v",
+          "2p",
+          "plural",
+          "present"
+        ]
+      },
+      {
+        "v": "esel",
+        "t": [
+          "v",
+          "3p",
+          "plural",
+          "present"
+        ]
+      },
+      {
+        "v": "esen",
+        "t": [
+          "v",
+          "1p",
+          "plural",
+          "present"
+        ]
+      }
+    ],
+    "been": {
+      "v": "este",
+      "t": "v"
+    },
+    "horse": {
+      "v": "eval",
+      "t": "n"
+    },
+    "always": {
+      "v": "evelig",
+      "t": "adv"
+    },
+    "everybody": {
+      "v": "evelyen",
+      "t": "pron"
+    },
+    "everyone": {
+      "v": "evelyen",
+      "t": "pron"
+    },
+    "everything": {
+      "v": "evelyen",
+      "t": "pron"
+    },
+    "to begin": {
+      "v": "faidar",
+      "t": "v"
+    },
+    "to happen": {
+      "v": "faidar",
+      "t": "v"
+    },
+    "horror": {
+      "v": "fast",
+      "t": "n"
+    },
+    "terror": {
+      "v": "fast",
+      "t": "n"
+    },
+    "horrors": {
+      "v": "fasta",
+      "t": "n"
+    },
+    "terrors": {
+      "v": "fasta",
+      "t": "n"
+    },
+    "sun": {
+      "v": "feine",
+      "t": "n"
+    },
+    "sunday": {
+      "v": "feintei",
+      "t": "n"
+    },
+    "to wander": {
+      "v": "fel",
+      "t": "v"
+    },
+    "to diverge": {
+      "v": "fel",
+      "t": "v"
+    },
+    "to go wrong": {
+      "v": "fel",
+      "t": "v"
+    },
+    "to mess up": {
+      "v": "fel",
+      "t": "v"
+    },
+    "to run afoul": {
+      "v": "fel",
+      "t": "v"
+    },
+    "wandered": {
+      "v": "es felte",
+      "t": "v"
+    },
+    "diverged": {
+      "v": "es felte",
+      "t": "v"
+    },
+    "went wrong": {
+      "v": "es felte",
+      "t": "v"
+    },
+    "messed up": {
+      "v": "es felte",
+      "t": "v"
+    },
+    "ran afoul": {
+      "v": "es felte",
+      "t": "v"
+    },
+    "to crush": {
+      "v": "felbeish",
+      "t": "v"
+    },
+    "to squish": {
+      "v": "felbeish",
+      "t": "v"
+    },
+    "crushed": {
+      "v": "eif felbeshte",
+      "t": "v"
+    },
+    "squished": {
+      "v": "eif felbeshte",
+      "t": "v"
+    },
+    "to steal": {
+      "v": "felben",
+      "t": "v"
+    },
+    "stole": {
+      "v": "eif felbente",
+      "t": "v"
+    },
+    "to curse": {
+      "v": "felben geish",
+      "t": "v"
+    },
+    "to extract an oath or promise from": {
+      "v": "felben geish",
+      "t": "v"
+    },
+    "burden": {
+      "v": "felbreis",
+      "t": "adv"
+    },
+    "pain": [
+      {
+        "v": "felbreis",
+        "t": [
+          "adv"
+        ]
+      },
+      {
+        "v": "köln",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "painful": [
+      {
+        "v": "felbreis",
+        "t": [
+          "adv"
+        ]
+      },
+      {
+        "v": "köln",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "hurt": [
+      {
+        "v": "felbreis",
+        "t": [
+          "adv"
+        ]
+      },
+      {
+        "v": "köln",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "to forfeit": {
+      "v": "feldon",
+      "t": "v"
+    },
+    "to lose": [
+      {
+        "v": "feldon",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "felhelsh",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "to give away unwillingly": {
+      "v": "feldon",
+      "t": "v"
+    },
+    "forfeit": {
+      "v": "eif feldinte",
+      "t": "v"
+    },
+    "lost": {
+      "v": "eif feldinte",
+      "t": "v"
+    },
+    "to close off": {
+      "v": "felfirs",
+      "t": "v"
+    },
+    "to isolate": {
+      "v": "felfirs",
+      "t": "v"
+    },
+    "to segregate": {
+      "v": "felfirs",
+      "t": "v"
+    },
+    "to deny": {
+      "v": "felgreth",
+      "t": "v"
+    },
+    "to keep from": {
+      "v": "felgreth",
+      "t": "v"
+    },
+    "denied": {
+      "v": "eif felgrethte",
+      "t": "v"
+    },
+    "kept from": {
+      "v": "eif felgrethte",
+      "t": "v"
+    },
+    "to trick": {
+      "v": "felgwelv",
+      "t": "v"
+    },
+    "to fool": {
+      "v": "felgwelv",
+      "t": "v"
+    },
+    "tricked": {
+      "v": "eif felgwelfte",
+      "t": "v"
+    },
+    "fooled": {
+      "v": "eif felgwelfte",
+      "t": "v"
+    },
+    "trickery": {
+      "v": "felgwelvem",
+      "t": "nik"
+    },
+    "to lose track of": {
+      "v": "felhelsh",
+      "t": "v"
+    },
+    "lost track of": {
+      "v": "eif felhelshte",
+      "t": "v"
+    },
+    "to afford": {
+      "v": "felmov",
+      "t": "v"
+    },
+    "to take on": {
+      "v": "felmov",
+      "t": "v"
+    },
+    "to be able to take on": {
+      "v": "felmov",
+      "t": "v"
+    },
+    "afforded": {
+      "v": "eif felmofte",
+      "t": "v"
+    },
+    "took on": {
+      "v": "eif felmofte",
+      "t": "v"
+    },
+    "taken on": {
+      "v": "eif felmofte",
+      "t": "v"
+    },
+    "crime": {
+      "v": "felnym",
+      "t": "n"
+    },
+    "transgression": {
+      "v": "felnym",
+      "t": "n"
+    },
+    "crimes": {
+      "v": "felnymen",
+      "t": "n"
+    },
+    "transgressions": {
+      "v": "felnymyn",
+      "t": "n"
+    },
+    "to infiltrate": {
+      "v": "felzik",
+      "t": "v"
+    },
+    "pasture": {
+      "v": "fen",
+      "t": "n"
+    },
+    "meadow": {
+      "v": "fen",
+      "t": "n"
+    },
+    "half": {
+      "v": "fen",
+      "t": "n"
+    },
+    "mad": {
+      "v": "fwal",
+      "t": "adj"
+    },
+    "crazy": {
+      "v": "fwal",
+      "t": "adj"
+    },
+    "insane": {
+      "v": "fwal",
+      "t": "adj"
+    },
+    "madder": {
+      "v": "fwalen",
+      "t": "adj"
+    },
+    "crazier": {
+      "v": "fwalen",
+      "t": "adj"
+    },
+    "more insane": {
+      "v": "fwalen",
+      "t": "adj"
+    },
+    "maddest": {
+      "v": "fwalshyn",
+      "t": "adj"
+    },
+    "craziest": {
+      "v": "fwalshyn",
+      "t": "adj"
+    },
+    "most insane": {
+      "v": "fwalshyn",
+      "t": "adj"
+    },
+    "to beware": {
+      "v": "garein",
+      "t": "v"
+    },
+    "to consider": {
+      "v": "garein",
+      "t": "v"
+    },
+    "to watch out": {
+      "v": "garein",
+      "t": "v"
+    },
+    "to be cautious": {
+      "v": "garein",
+      "t": "v"
+    },
+    "to be careful of": {
+      "v": "garein",
+      "t": "v"
+    },
+    "to note": {
+      "v": "garein",
+      "t": "v"
+    },
+    "to take note of": {
+      "v": "garein",
+      "t": "v"
+    },
+    "to take care": {
+      "v": "garein",
+      "t": "v"
+    },
+    "bewared": {
+      "v": "eif garante",
+      "t": "v"
+    },
+    "considered": {
+      "v": "eif garante",
+      "t": "v"
+    },
+    "watched out": {
+      "v": "eif garante",
+      "t": "v"
+    },
+    "noted": {
+      "v": "eif garante",
+      "t": "v"
+    },
+    "taken note": {
+      "v": "eif garante",
+      "t": "v"
+    },
+    "to punish": {
+      "v": "gathreis",
+      "t": "v"
+    },
+    "to reprimand": {
+      "v": "gathreis",
+      "t": "v"
+    },
+    "punishing": {
+      "v": "gathreisen",
+      "t": "n"
+    },
+    "punishment": {
+      "v": "gathreisen",
+      "t": "n"
+    },
+    "punished": {
+      "v": "eif gathraste",
+      "t": "v"
+    },
+    "reprimed": {
+      "v": "eif gathraste",
+      "t": "v"
+    },
+    "to be punished": {
+      "v": "gathreishil",
+      "t": "v"
+    },
+    "to operate": {
+      "v": "gavesen",
+      "t": "v"
+    },
+    "operating": {
+      "v": "gavesen",
+      "t": "v"
+    },
+    "curse": {
+      "v": "geish",
+      "t": "n"
+    },
+    "oath": {
+      "v": "geish",
+      "t": "n"
+    },
+    "prohibition": {
+      "v": "geish",
+      "t": "n"
+    },
+    "obligation": [
+      {
+        "v": "geish",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "zolg",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "to kill": {
+      "v": "ger",
+      "t": "v"
+    },
+    "killed": {
+      "v": "eif gerte",
+      "t": "v"
+    },
+    "snake": {
+      "v": "gerde",
+      "t": "n"
+    },
+    "serpent": {
+      "v": "gerde",
+      "t": "n"
+    },
+    "sword": {
+      "v": "gleidyf",
+      "t": "n"
+    },
+    "swords": {
+      "v": "gleidyvana",
+      "t": "n"
+    },
+    "gold": [
+      {
+        "v": "göld",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "gyldne",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "man": {
+      "v": "gram",
+      "t": "n"
+    },
+    "thankfulness": {
+      "v": "grash",
+      "t": "n"
+    },
+    "thanks": {
+      "v": "grasha",
+      "t": "n"
+    },
+    "to retain": [
+      {
+        "v": "greth",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "greth ein",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "to hold": {
+      "v": "greth",
+      "t": "v"
+    },
+    "to keep": {
+      "v": "greth",
+      "t": "v"
+    },
+    "to maintain": {
+      "v": "greth",
+      "t": "v"
+    },
+    "to hold in place": {
+      "v": "greth ein",
+      "t": "v"
+    },
+    "to keep in place": {
+      "v": "greth ein",
+      "t": "v"
+    },
+    "to maintain in place": {
+      "v": "greth ein",
+      "t": "v"
+    },
+    "retained": {
+      "v": "eif grethte",
+      "t": "v"
+    },
+    "held in place": {
+      "v": "eif grethte",
+      "t": "v"
+    },
+    "kept in place": {
+      "v": "eif grethte",
+      "t": "v"
+    },
+    "maintained in place": {
+      "v": "eif grethte",
+      "t": "v"
+    },
+    "mud": {
+      "v": "grösh",
+      "t": "n"
+    },
+    "muck": {
+      "v": "grösh",
+      "t": "n"
+    },
+    "grime": {
+      "v": "grösh",
+      "t": "n"
+    },
+    "filth": {
+      "v": "grösh",
+      "t": "n"
+    },
+    "magic": {
+      "v": "gweld",
+      "t": "n"
+    },
+    "to aid": {
+      "v": "gwelv",
+      "t": "v"
+    },
+    "to assist": {
+      "v": "gwelv",
+      "t": "v"
+    },
+    "to help": {
+      "v": "gwelv",
+      "t": "v"
+    },
+    "aid": {
+      "v": "gwelvem",
+      "t": "n"
+    },
+    "assistance": {
+      "v": "gwelvem",
+      "t": "n"
+    },
+    "help": {
+      "v": "gwelvem",
+      "t": "n"
+    },
+    "aided": {
+      "v": "eif gwelfte",
+      "t": "v"
+    },
+    "assisted": {
+      "v": "eif gwelfte",
+      "t": "v"
+    },
+    "helped": {
+      "v": "eif gwelfte",
+      "t": "v"
+    },
+    "white flame": {
+      "v": "gwendeith",
+      "t": "n"
+    },
+    "wide": {
+      "v": "gweth",
+      "t": "adj"
+    },
+    "open": {
+      "v": "gweth",
+      "t": "adj"
+    },
+    "white": {
+      "v": "gwyn",
+      "t": "adj"
+    },
+    "white snakeroot": {
+      "v": "gwyn gerdered",
+      "t": "n"
+    },
+    "white wolf": {
+      "v": "gwynbleid",
+      "t": "n"
+    },
+    "golden": {
+      "v": "gyldne",
+      "t": "adj"
+    },
+    "blond": {
+      "v": "gyldne",
+      "t": "adj"
+    },
+    "blonde": {
+      "v": "gyldne",
+      "t": "adj"
+    },
+    "ice": {
+      "v": "gynveil",
+      "t": "n"
+    },
+    "icy": {
+      "v": "gynveilei",
+      "t": "adj"
+    },
+    "more": {
+      "v": "heil",
+      "t": "delim"
+    },
+    "to greet": {
+      "v": "heil",
+      "t": "v"
+    },
+    "greeted": {
+      "v": "eif heilte",
+      "t": "v"
+    },
+    "rain": {
+      "v": "hein",
+      "t": "n"
+    },
+    "to trust": {
+      "v": "heir",
+      "t": "v"
+    },
+    "to hope": {
+      "v": "heir",
+      "t": "v"
+    },
+    "to drop": {
+      "v": "helsh",
+      "t": "v"
+    },
+    "to fall": {
+      "v": "helsh",
+      "t": "v"
+    },
+    "to drop down": {
+      "v": "helsh ys",
+      "t": "v"
+    },
+    "to fall down": {
+      "v": "helsh ys",
+      "t": "v"
+    },
+    "army": {
+      "v": "helyk",
+      "t": "n"
+    },
+    "old": {
+      "v": "hen",
+      "t": "adj"
+    },
+    "oldest": {
+      "v": "hen",
+      "t": "adj"
+    },
+    "elder": {
+      "v": "hen",
+      "t": "adj"
+    },
+    "elder speech": {
+      "v": "hen linge",
+      "t": "n"
+    },
+    "that": {
+      "v": "kwe",
+      "t": "pron"
+    },
+    "this": [
+      {
+        "v": "het eir",
+        "t": [
+          "pron"
+        ]
+      },
+      {
+        "v": "it eir",
+        "t": [
+          "pron"
+        ]
+      }
+    ],
+    "one time": {
+      "v": "hig",
+      "t": "n"
+    },
+    "one instance": {
+      "v": "hig",
+      "t": "n"
+    },
+    "body": {
+      "v": "hil",
+      "t": "n"
+    },
+    "to discover": {
+      "v": "hul",
+      "t": "v"
+    },
+    "to find": {
+      "v": "hul",
+      "t": "v"
+    },
+    "discovered": {
+      "v": "eif hulte",
+      "t": "v"
+    },
+    "found out": {
+      "v": "eif hulte",
+      "t": "v"
+    },
+    "too many": {
+      "v": "hyuz",
+      "t": "det"
+    },
+    "too much of": {
+      "v": "hyuz",
+      "t": "det"
+    },
+    "and": {
+      "v": "i",
+      "t": "conj"
+    },
+    "blood": {
+      "v": "ikeir",
+      "t": "n"
+    },
+    "to join": {
+      "v": "ilysh",
+      "t": "v"
+    },
+    "to unite": {
+      "v": "ilysh",
+      "t": "v"
+    },
+    "union": {
+      "v": "ilysh",
+      "t": "v"
+    },
+    "acre": {
+      "v": "indryl",
+      "t": "n"
+    },
+    "winter": {
+      "v": "inveirne",
+      "t": "n"
+    },
+    "another": {
+      "v": "ire",
+      "t": "adj"
+    },
+    "other": {
+      "v": "ire",
+      "t": "adj"
+    },
+    "different": {
+      "v": "ire",
+      "t": "adj"
+    },
+    "second": {
+      "v": "irenke",
+      "t": "adj"
+    },
+    "again": {
+      "v": "irig",
+      "t": "adv"
+    },
+    "anew": {
+      "v": "irig",
+      "t": "adv"
+    },
+    "once again": {
+      "v": "irig",
+      "t": "adv"
+    },
+    "once more": {
+      "v": "irig",
+      "t": "adv"
+    },
+    "to lack": {
+      "v": "is",
+      "t": "v"
+    },
+    "to miss": {
+      "v": "is",
+      "t": "v"
+    },
+    "to be missing": {
+      "v": "is",
+      "t": "v"
+    },
+    "lacked": {
+      "v": "eif iste",
+      "t": "v"
+    },
+    "is missing": {
+      "v": "eif iste",
+      "t": "v"
+    },
+    "oak": {
+      "v": "kanel",
+      "t": "n"
+    },
+    "oak tree": {
+      "v": "kanel",
+      "t": "n"
+    },
+    "burial mound": {
+      "v": "karn",
+      "t": "n"
+    },
+    "barrow": {
+      "v": "karn",
+      "t": "n"
+    },
+    "grave": {
+      "v": "karn",
+      "t": "n"
+    },
+    "calm": {
+      "v": "keilm",
+      "t": "adj"
+    },
+    "peaceful": {
+      "v": "keilm",
+      "t": "adj"
+    },
+    "peace": {
+      "v": "keilme",
+      "t": "n"
+    },
+    "to arrive": {
+      "v": "keim",
+      "t": "v"
+    },
+    "to come": {
+      "v": "keim",
+      "t": "v"
+    },
+    "to understand": {
+      "v": "keim",
+      "t": "v"
+    },
+    "to be able": {
+      "v": "kein",
+      "t": "v"
+    },
+    "to be capable": {
+      "v": "kein",
+      "t": "v"
+    },
+    "can": {
+      "v": "kein",
+      "t": "v"
+    },
+    "power": {
+      "v": "keinme",
+      "t": "n"
+    },
+    "might": {
+      "v": "keinme",
+      "t": "n"
+    },
+    "strength": {
+      "v": "keinme",
+      "t": "n"
+    },
+    "castle": {
+      "v": "keir",
+      "t": "n"
+    },
+    "fortress": {
+      "v": "keir",
+      "t": "n"
+    },
+    "keep": {
+      "v": "keir",
+      "t": "n"
+    },
+    "destiny": {
+      "v": "keirm",
+      "t": "n"
+    },
+    "fate": {
+      "v": "keirm",
+      "t": "n"
+    },
+    "kelpie": {
+      "v": "kelpi",
+      "t": "n"
+    },
+    "arrived": {
+      "v": "kempte",
+      "t": "v"
+    },
+    "come": {
+      "v": "kempte",
+      "t": "v"
+    },
+    "crow": {
+      "v": "kerbin",
+      "t": "n"
+    },
+    "heart": {
+      "v": "kern",
+      "t": "n"
+    },
+    "true": {
+      "v": "kerve",
+      "t": "adj"
+    },
+    "accurate": {
+      "v": "kerve",
+      "t": "adj"
+    },
+    "correct": {
+      "v": "kerve",
+      "t": "adj"
+    },
+    "right": {
+      "v": "kerve",
+      "t": "adj"
+    },
+    "truth": {
+      "v": "kervem",
+      "t": "n"
+    },
+    "rightness": {
+      "v": "kervem",
+      "t": "n"
+    },
+    "koram": {
+      "v": "lion",
+      "t": "n"
+    },
+    "evil": {
+      "v": "krethe",
+      "t": "adj"
+    },
+    "wicked": {
+      "v": "krethe",
+      "t": "adj"
+    },
+    "fox": {
+      "v": "krevan",
+      "t": "n"
+    },
+    "stench": {
+      "v": "krök",
+      "t": "n"
+    },
+    "stink": {
+      "v": "krök",
+      "t": "n"
+    },
+    "smell": {
+      "v": "krök",
+      "t": "n"
+    },
+    "gem": {
+      "v": "krön",
+      "t": "n"
+    },
+    "jewel": {
+      "v": "krön",
+      "t": "n"
+    },
+    "still": {
+      "v": "kwan",
+      "t": "adj"
+    },
+    "unmoving": {
+      "v": "kwan",
+      "t": "adj"
+    },
+    "what": {
+      "v": "kwe",
+      "t": "pron"
+    },
+    "to change": {
+      "v": "kwesh",
+      "t": "v"
+    },
+    "to transform": {
+      "v": "kwesh",
+      "t": "v"
+    },
+    "changed": {
+      "v": "es kweshte",
+      "t": "v"
+    },
+    "transformed": {
+      "v": "eif kweshte",
+      "t": "v"
+    },
+    "who": {
+      "v": "kwyn",
+      "t": "n"
+    },
+    "to cut": {
+      "v": "kwys",
+      "t": "v"
+    },
+    "to slice": {
+      "v": "kwys",
+      "t": "v"
+    },
+    "had cut": {
+      "v": "eif kwyste",
+      "t": "v"
+    },
+    "has cut": {
+      "v": "eif kwyste",
+      "t": "v"
+    },
+    "sliced": {
+      "v": "eif kwyste",
+      "t": "v"
+    },
+    "those": {
+      "v": "lan a",
+      "t": "pron"
+    },
+    "these": {
+      "v": "lan eir",
+      "t": "pron"
+    },
+    "gull": {
+      "v": "lar",
+      "t": "n"
+    },
+    "seagull": {
+      "v": "lar",
+      "t": "n"
+    },
+    "lady": {
+      "v": "leith",
+      "t": "n"
+    },
+    "to taste": {
+      "v": "lin",
+      "t": "v"
+    },
+    "tasted": {
+      "v": "eif linde",
+      "t": "v"
+    },
+    "language": {
+      "v": "linge",
+      "t": "n"
+    },
+    "lake": {
+      "v": "lok",
+      "t": "n"
+    },
+    "area": {
+      "v": "loke",
+      "t": "n"
+    },
+    "to call": {
+      "v": "loth",
+      "t": "v"
+    },
+    "to call out to": {
+      "v": "loth",
+      "t": "v"
+    },
+    "to call upon": {
+      "v": "loth",
+      "t": "v"
+    },
+    "to call after": {
+      "v": "loth",
+      "t": "v"
+    },
+    "called": {
+      "v": "eif lethte",
+      "t": "v"
+    },
+    "called out": {
+      "v": "eif lethte",
+      "t": "v"
+    },
+    "called upon": {
+      "v": "eif lethte",
+      "t": "v"
+    },
+    "called after": {
+      "v": "eif lethte",
+      "t": "v"
+    },
+    "name": {
+      "v": "lothe",
+      "t": "n"
+    },
+    "daughter": {
+      "v": "luned",
+      "t": "n"
+    },
+    "girl": {
+      "v": "luned",
+      "t": "n"
+    },
+    "berry": {
+      "v": "luyen",
+      "t": "n"
+    },
+    "me": {
+      "v": "me",
+      "t": "pron"
+    },
+    "my": {
+      "v": "'me",
+      "t": "pron"
+    },
+    "mine": {
+      "v": "'me",
+      "t": "pron"
+    },
+    "form": {
+      "v": "meik",
+      "t": "n"
+    },
+    "type": {
+      "v": "meik",
+      "t": "n"
+    },
+    "kind": {
+      "v": "meik",
+      "t": "n"
+    },
+    "forms": {
+      "v": "meika",
+      "t": "n"
+    },
+    "types": {
+      "v": "meika",
+      "t": "n"
+    },
+    "kinds": {
+      "v": "meika",
+      "t": "n"
+    },
+    "to love": {
+      "v": "mein",
+      "t": "v"
+    },
+    "loved": {
+      "v": "eif minte",
+      "t": "v"
+    },
+    "mother": {
+      "v": "meir",
+      "t": "n"
+    },
+    "to meet": {
+      "v": "meith",
+      "t": "v"
+    },
+    "met": {
+      "v": "eif methte",
+      "t": "v"
+    },
+    "to lead": {
+      "v": "mend",
+      "t": "v"
+    },
+    "leader": {
+      "v": "mendyn",
+      "t": "n"
+    },
+    "leadership": {
+      "v": "mendynyrm",
+      "t": "n"
+    },
+    "to bury": {
+      "v": "mev",
+      "t": "v"
+    },
+    "kite": {
+      "v": "milva",
+      "t": "n"
+    },
+    "darling": {
+      "v": "mine",
+      "t": "n"
+    },
+    "dear": {
+      "v": "mine",
+      "t": "n"
+    },
+    "love": {
+      "v": "mine",
+      "t": "n"
+    },
+    "intent": {
+      "v": "minth",
+      "t": "n"
+    },
+    "goal": {
+      "v": "minth",
+      "t": "n"
+    },
+    "plan": {
+      "v": "minth",
+      "t": "n"
+    },
+    "objective": {
+      "v": "minth",
+      "t": "n"
+    },
+    "home": {
+      "v": "mor",
+      "t": "n"
+    },
+    "enemy": {
+      "v": "morvud",
+      "t": "n"
+    },
+    "foe": {
+      "v": "morvud",
+      "t": "n"
+    },
+    "to receive": {
+      "v": "mov",
+      "t": "v"
+    },
+    "to accept": [
+      {
+        "v": "mov",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "themben",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "to get": {
+      "v": "mov",
+      "t": "v"
+    },
+    "to obtain": {
+      "v": "mov",
+      "t": "v"
+    },
+    "recieved": {
+      "v": "eif mofte",
+      "t": "v"
+    },
+    "accepted": {
+      "v": "eif mofte",
+      "t": "v"
+    },
+    "obtained": {
+      "v": "eif mofte",
+      "t": "v"
+    },
+    "world": {
+      "v": "mowin",
+      "t": "n"
+    },
+    "planet": {
+      "v": "mowin",
+      "t": "n"
+    },
+    "dark": [
+      {
+        "v": "mur",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "murm",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "darkness": {
+      "v": "murm",
+      "t": "n"
+    },
+    "nightshade": {
+      "v": "murveine",
+      "t": "n"
+    },
+    "or": {
+      "v": "na",
+      "t": "conj"
+    },
+    "not i": {
+      "v": "na",
+      "t": "pron"
+    },
+    "prohibited": {
+      "v": "ne'thembenshil",
+      "t": "v"
+    },
+    "disallowed": {
+      "v": "ne'thembenshil",
+      "t": "v"
+    },
+    "not accepted": {
+      "v": "ne'thembenshil",
+      "t": "v"
+    },
+    "illegal": {
+      "v": "ne'thembenshil",
+      "t": "v"
+    },
+    "was dissalowed": {
+      "v": "eif thembente",
+      "t": "v"
+    },
+    "was prohibited": {
+      "v": "eif thembente",
+      "t": "v"
+    },
+    "not we": {
+      "v": "nein",
+      "t": "pron"
+    },
+    "star": {
+      "v": "neir",
+      "t": "n"
+    },
+    "special": {
+      "v": "neirei",
+      "t": "adj"
+    },
+    "unborn": {
+      "v": "nepurte",
+      "t": "adj"
+    },
+    "not he": {
+      "v": "net",
+      "t": "pron"
+    },
+    "not she": {
+      "v": "net",
+      "t": "pron"
+    },
+    "not it": {
+      "v": "net",
+      "t": "pron"
+    },
+    "not they": [
+      {
+        "v": "net",
+        "t": [
+          "pron"
+        ]
+      },
+      {
+        "v": "nil",
+        "t": [
+          "pron"
+        ]
+      }
+    ],
+    "not you": [
+      {
+        "v": "nete",
+        "t": [
+          "pron"
+        ]
+      },
+      {
+        "v": "nök",
+        "t": [
+          "pron"
+        ]
+      }
+    ],
+    "to believe": {
+      "v": "nik",
+      "t": "v"
+    },
+    "to think": {
+      "v": "nik",
+      "t": "v"
+    },
+    "to feel": {
+      "v": "nik",
+      "t": "v"
+    },
+    "believed": {
+      "v": "es nikte",
+      "t": "v"
+    },
+    "thought": {
+      "v": "es nikte",
+      "t": "v"
+    },
+    "felt": {
+      "v": "es nikte",
+      "t": "v"
+    },
+    "Nilfgaard": {
+      "v": "Nilfgard",
+      "t": "n"
+    },
+    "Nilfgaardian": {
+      "v": "Nilfgardei",
+      "t": "adj"
+    },
+    "earth": {
+      "v": "nol",
+      "t": "n"
+    },
+    "soil": {
+      "v": "nola",
+      "t": "n"
+    },
+    "north": {
+      "v": "nörd",
+      "t": "n"
+    },
+    "northern": {
+      "v": "nördei",
+      "t": "adj"
+    },
+    "oil": {
+      "v": "nym",
+      "t": "n"
+    },
+    "no one": {
+      "v": "nyn",
+      "t": "pron"
+    },
+    "gray": {
+      "v": "or",
+      "t": "adj"
+    },
+    "grey": {
+      "v": "or",
+      "t": "adj"
+    },
+    "now": {
+      "v": "os",
+      "t": "adv"
+    },
+    "currently": {
+      "v": "os",
+      "t": "adv"
+    },
+    "at the moment": {
+      "v": "os",
+      "t": "adv"
+    },
+    "east": {
+      "v": "ösh",
+      "t": "n"
+    },
+    "estern": {
+      "v": "öshei",
+      "t": "adj"
+    },
+    "heir": {
+      "v": "owen",
+      "t": "n"
+    },
+    "eight": {
+      "v": "oz",
+      "t": "n"
+    },
+    "decade": {
+      "v": "ozelyrm",
+      "t": "n"
+    },
+    "octade": {
+      "v": "ozelyrm",
+      "t": "n"
+    },
+    "decades": {
+      "v": "ozelyrmen",
+      "t": "n"
+    },
+    "octades": {
+      "v": "ozelyrmen",
+      "t": "n"
+    },
+    "fair": {
+      "v": "pareil",
+      "t": "n"
+    },
+    "fest": {
+      "v": "pareil",
+      "t": "n"
+    },
+    "festival": {
+      "v": "pareil",
+      "t": "n"
+    },
+    "to catch": {
+      "v": "peik",
+      "t": "v"
+    },
+    "caught": {
+      "v": "eif pekte",
+      "t": "v"
+    },
+    "hand": {
+      "v": "peir",
+      "t": "n"
+    },
+    "reason": {
+      "v": "peithyrm",
+      "t": "n"
+    },
+    "storm": {
+      "v": "pelys",
+      "t": "n"
+    },
+    "tempest": {
+      "v": "pelys",
+      "t": "n"
+    },
+    "weapon": {
+      "v": "peraven",
+      "t": "n"
+    },
+    "in ruins": {
+      "v": "perthe",
+      "t": "adj"
+    },
+    "liability": {
+      "v": "paerthekhin",
+      "t": "n"
+    },
+    "pestilence": {
+      "v": "pest",
+      "t": "n"
+    },
+    "plague": {
+      "v": "pest",
+      "t": "n"
+    },
+    "blight": {
+      "v": "pest",
+      "t": "n"
+    },
+    "born": {
+      "v": "pur",
+      "t": "adj"
+    },
+    "to be born": {
+      "v": "pur",
+      "t": "v"
+    },
+    "was born": {
+      "v": "es purte",
+      "t": "v"
+    },
+    "border": {
+      "v": "range",
+      "t": "n"
+    },
+    "root": {
+      "v": "red",
+      "t": "n"
+    },
+    "to run": {
+      "v": "rein",
+      "t": "v"
+    },
+    "ran": {
+      "v": "es reinte",
+      "t": "v"
+    },
+    "law": {
+      "v": "relg",
+      "t": "n"
+    },
+    "laws": {
+      "v": "relga",
+      "t": "n"
+    },
+    "cat": {
+      "v": "romyn",
+      "t": "n"
+    },
+    "king": {
+      "v": "ron",
+      "t": "n"
+    },
+    "town": {
+      "v": "rone",
+      "t": "n"
+    },
+    "village": {
+      "v": "rone",
+      "t": "n"
+    },
+    "royal": {
+      "v": "ronei",
+      "t": "adj"
+    },
+    "regal": {
+      "v": "ronei",
+      "t": "adj"
+    },
+    "kingly": {
+      "v": "ronei",
+      "t": "adj"
+    },
+    "kingdom": {
+      "v": "ronyrm",
+      "t": "n"
+    },
+    "deep": {
+      "v": "rosh",
+      "t": "adj"
+    },
+    "to march": {
+      "v": "rösh",
+      "t": "v"
+    },
+    "marched": {
+      "v": "es röshte",
+      "t": "v"
+    },
+    "hair": [
+      {
+        "v": "rush",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "rusha",
+        "t": [
+          "n",
+          "plural"
+        ]
+      }
+    ],
+    "penis": {
+      "v": "sapin",
+      "t": "n"
+    },
+    "cock": {
+      "v": "sapin",
+      "t": "n"
+    },
+    "market": {
+      "v": "saren",
+      "t": "n"
+    },
+    "month": {
+      "v": "saveid",
+      "t": "n"
+    },
+    "eigth of a year": {
+      "v": "saveid",
+      "t": "n"
+    },
+    "to question": "seise",
+    "to doubt (v": "seise",
+    "r=vort)": "seise",
+    "south": {
+      "v": "sheiv",
+      "t": "n"
+    },
+    "southern": {
+      "v": "sheivei",
+      "t": "adj"
+    },
+    "hill": {
+      "v": "shi",
+      "t": "n"
+    },
+    "fuck": {
+      "v": "shik",
+      "t": "v"
+    },
+    "hidden": {
+      "v": "shindre",
+      "t": "adj"
+    },
+    "hiddenness": {
+      "v": "shindrem",
+      "t": "n"
+    },
+    "secret": {
+      "v": "shindrem",
+      "t": "n"
+    },
+    "cintra": {
+      "v": "Sintra",
+      "t": "n"
+    },
+    "squirrel": {
+      "v": "skwatel",
+      "t": "n"
+    },
+    "treasure": {
+      "v": "stor",
+      "t": "n"
+    },
+    "little treasure": {
+      "v": "storin",
+      "t": "n"
+    },
+    "road": {
+      "v": "streid",
+      "t": "n"
+    },
+    "street": {
+      "v": "streid",
+      "t": "n"
+    },
+    "trail": {
+      "v": "streid",
+      "t": "n"
+    },
+    "path": {
+      "v": "streid",
+      "t": "n"
+    },
+    "race": {
+      "v": "stren",
+      "t": "n"
+    },
+    "races": {
+      "v": "strena",
+      "t": "n"
+    },
+    "to jump": {
+      "v": "sut",
+      "t": "v"
+    },
+    "to leap": {
+      "v": "sut",
+      "t": "v"
+    },
+    "jumped": {
+      "v": "es sutte",
+      "t": "v"
+    },
+    "leaped": {
+      "v": "es sutte",
+      "t": "v"
+    },
+    "must": [
+      {
+        "v": "t'eip",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "t'en",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "to have to": [
+      {
+        "v": "t'eip",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "t'en",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "day": [
+      {
+        "v": "teigan",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "teigan",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "scared": [
+      {
+        "v": "teirth",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "teirth",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "bard": [
+      {
+        "v": "teiw",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "teiw",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "shell": [
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "exterior": [
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "case": [
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "casing": [
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "tel",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "time": {
+      "v": "ted",
+      "t": "n"
+    },
+    "age": {
+      "v": "ted",
+      "t": "n"
+    },
+    "era": {
+      "v": "ted",
+      "t": "n"
+    },
+    "season": {
+      "v": "ted",
+      "t": "n"
+    },
+    "to quiet": [
+      {
+        "v": "theis",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "theis eip",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "to shut up": [
+      {
+        "v": "theis",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "theis eip",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "to hug": {
+      "v": "thembeish",
+      "t": "v"
+    },
+    "to embrace": {
+      "v": "thembeish",
+      "t": "v"
+    },
+    "hugged": {
+      "v": "eif thembeshte",
+      "t": "v"
+    },
+    "embraced": {
+      "v": "eif thembeshte",
+      "t": "v"
+    },
+    "to let": {
+      "v": "themben",
+      "t": "v"
+    },
+    "is accepted": [
+      {
+        "v": "thembenil",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "thembenshil",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "is allowed": [
+      {
+        "v": "thembenil",
+        "t": [
+          "v"
+        ]
+      },
+      {
+        "v": "thembenshil",
+        "t": [
+          "v"
+        ]
+      }
+    ],
+    "was accepted": {
+      "v": "eif thembente",
+      "t": "v"
+    },
+    "was allowed": {
+      "v": "eif thembente",
+      "t": "v"
+    },
+    "was let in": {
+      "v": "eif thembente",
+      "t": "v"
+    },
+    "to seem": {
+      "v": "themmone",
+      "t": "v"
+    },
+    "to rescue": {
+      "v": "thempeik",
+      "t": "v"
+    },
+    "to save": {
+      "v": "thempeik",
+      "t": "v"
+    },
+    "rescued": {
+      "v": "eif thempekte",
+      "t": "v"
+    },
+    "saved": {
+      "v": "eif thempekte",
+      "t": "v"
+    },
+    "rescuer": {
+      "v": "thempeikyn",
+      "t": "n"
+    },
+    "savior": {
+      "v": "thempeikyn",
+      "t": "n"
+    },
+    "to decimate": {
+      "v": "thenaperthe",
+      "t": "v"
+    },
+    "to destroy": {
+      "v": "thenaperthe",
+      "t": "v"
+    },
+    "to obliterate": {
+      "v": "thenaperthe",
+      "t": "v"
+    },
+    "decimated": {
+      "v": "eif thenaperthete",
+      "t": "v"
+    },
+    "destroyed": {
+      "v": "eif thenaperthete",
+      "t": "v"
+    },
+    "obliterated": {
+      "v": "eif thenaperthete",
+      "t": "v"
+    },
+    "to seek asylum": {
+      "v": "thendel",
+      "t": "v"
+    },
+    "to seek rescue": {
+      "v": "thendel",
+      "t": "v"
+    },
+    "to petition": {
+      "v": "thendel",
+      "t": "v"
+    },
+    "sought": {
+      "v": "eif thendelte",
+      "t": "v"
+    },
+    "sought asylum": {
+      "v": "eif thendelte",
+      "t": "v"
+    },
+    "sought rescue": {
+      "v": "eif thendelte",
+      "t": "v"
+    },
+    "petitioned": {
+      "v": "eif thendelte",
+      "t": "v"
+    },
+    "refugee": {
+      "v": "thendelyn",
+      "t": "n"
+    },
+    "asylum seeker": {
+      "v": "thendelyn",
+      "t": "n"
+    },
+    "refugees": {
+      "v": "thendelynath",
+      "t": "n"
+    },
+    "asylum seekers": {
+      "v": "thendelynath",
+      "t": "n"
+    },
+    "to announce": {
+      "v": "thendike",
+      "t": "v"
+    },
+    "to proclaim": {
+      "v": "thendike",
+      "t": "v"
+    },
+    "announced": {
+      "v": "eif thendikete",
+      "t": "v"
+    },
+    "proclaimed": {
+      "v": "eif thendikete",
+      "t": "v"
+    },
+    "announcement": {
+      "v": "thendikem",
+      "t": "n"
+    },
+    "proclamation": {
+      "v": "thendikem",
+      "t": "n"
+    },
+    "to possess": {
+      "v": "thengreth",
+      "t": "v"
+    },
+    "to have in one's possession": {
+      "v": "thengreth",
+      "t": "v"
+    },
+    "possessed": {
+      "v": "eif thengrethte",
+      "t": "v"
+    },
+    "was posessed": {
+      "v": "eif thengrethte",
+      "t": "v"
+    },
+    "possessors": {
+      "v": "thengrethynath",
+      "t": "n"
+    },
+    "keepers": {
+      "v": "thengrethynath",
+      "t": "n"
+    },
+    "to need": {
+      "v": "thenis",
+      "t": "v"
+    },
+    "to require": {
+      "v": "thenis",
+      "t": "v"
+    },
+    "reaquired": {
+      "v": "eif theniste",
+      "t": "v"
+    },
+    "needed": {
+      "v": "eif theniste",
+      "t": "v"
+    },
+    "to belong": {
+      "v": "thennushe",
+      "t": "v"
+    },
+    "to figure out": {
+      "v": "thenul",
+      "t": "v"
+    },
+    "to determine": {
+      "v": "thenul",
+      "t": "v"
+    },
+    "to ascertain": {
+      "v": "thenul",
+      "t": "v"
+    },
+    "figured out": {
+      "v": "eif thenulte",
+      "t": "v"
+    },
+    "determined": {
+      "v": "eif thenulte",
+      "t": "v"
+    },
+    "ascetrained": {
+      "v": "eif thenulte",
+      "t": "v"
+    },
+    "to beg": {
+      "v": "thenur",
+      "t": "v"
+    },
+    "to plead": {
+      "v": "thenur",
+      "t": "v"
+    },
+    "begged": {
+      "v": "eif thenurte",
+      "t": "v"
+    },
+    "pleaded": {
+      "v": "eif thenurte",
+      "t": "v"
+    },
+    "to heed": {
+      "v": "thenveid",
+      "t": "v"
+    },
+    "to obey": {
+      "v": "thenveid",
+      "t": "v"
+    },
+    "to follow": {
+      "v": "thenveid",
+      "t": "v"
+    },
+    "heeded": {
+      "v": "eif thenvete",
+      "t": "v"
+    },
+    "obeyed": {
+      "v": "eif thenvete",
+      "t": "v"
+    },
+    "followed": {
+      "v": "eif thenvete",
+      "t": "v"
+    },
+    "heather": {
+      "v": "thevyn",
+      "t": "n"
+    },
+    "to beat": {
+      "v": "threis",
+      "t": "n"
+    },
+    "to pummel": {
+      "v": "threis",
+      "t": "n"
+    },
+    "was beated": {
+      "v": "eif thraste",
+      "t": "v"
+    },
+    "plummeled": {
+      "v": "eif thraste",
+      "t": "v"
+    },
+    "land": {
+      "v": "tir",
+      "t": "n"
+    },
+    "ground": {
+      "v": "tir",
+      "t": "n"
+    },
+    "country": {
+      "v": "tir",
+      "t": "n"
+    },
+    "bane": {
+      "v": "tolv",
+      "t": "n"
+    },
+    "ward": {
+      "v": "tolv",
+      "t": "n"
+    },
+    "tower": {
+      "v": "tor",
+      "t": "n"
+    },
+    "towers": {
+      "v": "torana",
+      "t": "n"
+    },
+    "pond": {
+      "v": "ulfin",
+      "t": "n"
+    },
+    "to ask": {
+      "v": "ur",
+      "t": "v"
+    },
+    "to inquire": {
+      "v": "ur",
+      "t": "v"
+    },
+    "to query": {
+      "v": "ur",
+      "t": "v"
+    },
+    "asked": {
+      "v": "eif urte",
+      "t": "eifurte"
+    },
+    "inquired": {
+      "v": "eif urte",
+      "t": "eifurte"
+    },
+    "queried": {
+      "v": "eif urte",
+      "t": "eifurte"
+    },
+    "asking": {
+      "v": "urme",
+      "t": "n"
+    },
+    "inquiring": {
+      "v": "urme",
+      "t": "n"
+    },
+    "querying": {
+      "v": "urme",
+      "t": "n"
+    },
+    "olive": {
+      "v": "ush",
+      "t": "n"
+    },
+    "to go": {
+      "v": "va",
+      "t": "v"
+    },
+    "go back": {
+      "v": "va irig",
+      "t": "v"
+    },
+    "return": {
+      "v": "va irig",
+      "t": "v"
+    },
+    "ware": {
+      "v": "var",
+      "t": "n"
+    },
+    "good": {
+      "v": "var",
+      "t": "n"
+    },
+    "dry good": {
+      "v": "var",
+      "t": "n"
+    },
+    "wares": {
+      "v": "vara",
+      "t": "n"
+    },
+    "goods": {
+      "v": "vara",
+      "t": "n"
+    },
+    "dry goods": {
+      "v": "vara",
+      "t": "n"
+    },
+    "monster": {
+      "v": "vat",
+      "t": "n"
+    },
+    "witch": {
+      "v": "vat",
+      "t": "n"
+    },
+    "witcher": {
+      "v": "vatgern",
+      "t": "n"
+    },
+    "witchcraft": {
+      "v": "vatyrm",
+      "t": "n"
+    },
+    "to listen": {
+      "v": "veid",
+      "t": "v"
+    },
+    "to hear": {
+      "v": "veid",
+      "t": "v"
+    },
+    "listened": {
+      "v": "eif vete",
+      "t": "v"
+    },
+    "heard": {
+      "v": "eif vete",
+      "t": "v"
+    },
+    "trip": {
+      "v": "vein",
+      "t": "n"
+    },
+    "journey": {
+      "v": "vein",
+      "t": "n"
+    },
+    "go be?": {
+      "v": "veise",
+      "t": "v"
+    },
+    "to live": {
+      "v": "veish",
+      "t": "v"
+    },
+    "lived": {
+      "v": "es veshte",
+      "t": "v"
+    },
+    "life": {
+      "v": "veishme",
+      "t": "n"
+    },
+    "den": {
+      "v": "veith",
+      "t": "n"
+    },
+    "lair": {
+      "v": "veith",
+      "t": "n"
+    },
+    "tavern": {
+      "v": "veldwyn",
+      "t": "n"
+    },
+    "fast": {
+      "v": "velö",
+      "t": "adj"
+    },
+    "quick": {
+      "v": "velö",
+      "t": "adj"
+    },
+    "quickly": {
+      "v": "velö",
+      "t": "adj"
+    },
+    "poison": {
+      "v": "velys",
+      "t": "n"
+    },
+    "poisonous": {
+      "v": "velysei",
+      "t": "adj"
+    },
+    "west": {
+      "v": "ves",
+      "t": "n"
+    },
+    "western": {
+      "v": "vesei",
+      "t": "adj"
+    },
+    "to know": {
+      "v": "vesh",
+      "t": "v"
+    },
+    "known": {
+      "v": "eif vishte",
+      "t": "v"
+    },
+    "death": {
+      "v": "vol",
+      "t": "n"
+    },
+    "deadly": {
+      "v": "volei",
+      "t": "adj"
+    },
+    "deathless": {
+      "v": "voleth",
+      "t": "adj"
+    },
+    "door": {
+      "v": "vond",
+      "t": "n"
+    },
+    "gate": {
+      "v": "vond",
+      "t": "n"
+    },
+    "previous": {
+      "v": "vor",
+      "t": "adj"
+    },
+    "prior": {
+      "v": "vor",
+      "t": "adj"
+    },
+    "last": {
+      "v": "vor",
+      "t": "adj"
+    },
+    "grandmother": {
+      "v": "vormeir",
+      "t": "n"
+    },
+    "before": {
+      "v": "vort",
+      "t": "adj"
+    },
+    "previously": {
+      "v": "vort",
+      "t": "adj"
+    },
+    "forth": {
+      "v": "vort",
+      "t": "adj"
+    },
+    "past": {
+      "v": "vorted",
+      "t": "n"
+    },
+    "history": {
+      "v": "vorted",
+      "t": "n"
+    },
+    "child": {
+      "v": "wed",
+      "t": "n"
+    },
+    "kid": {
+      "v": "wed",
+      "t": "n"
+    },
+    "little child": {
+      "v": "wedin",
+      "t": "n"
+    },
+    "little kid": {
+      "v": "wedin",
+      "t": "n"
+    },
+    "kiddo": {
+      "v": "wedin",
+      "t": "n"
+    },
+    "tool": {
+      "v": "weth",
+      "t": "n"
+    },
+    "woods": [
+      {
+        "v": "wöd",
+        "t": [
+          "n"
+        ]
+      },
+      {
+        "v": "wöda",
+        "t": [
+          "n"
+        ]
+      }
+    ],
+    "forest": {
+      "v": "wöd",
+      "t": "n"
+    },
+    "forests": {
+      "v": "wöda",
+      "t": "n"
+    },
+    "miracle": {
+      "v": "wöndrel",
+      "t": "n"
+    },
+    "wonder": {
+      "v": "wöndrel",
+      "t": "n"
+    },
+    "on": {
+      "v": "yn",
+      "t": "prep"
+    },
+    "over": {
+      "v": "yn",
+      "t": "prep"
+    },
+    "during": {
+      "v": "yn",
+      "t": "prep"
+    },
+    "for the duration of": {
+      "v": "yn",
+      "t": "prep"
+    },
+    "to grant": {
+      "v": "yndonshil",
+      "t": "v"
+    },
+    "granted": {
+      "v": "yndonshil",
+      "t": "v"
+    },
+    "gifted": {
+      "v": "yndonshil",
+      "t": "v"
+    },
+    "bestowed": {
+      "v": "yndonshil",
+      "t": "v"
+    },
+    "given": {
+      "v": "yndonshil",
+      "t": "v"
+    },
+    "to travel": {
+      "v": "yndrösh",
+      "t": "v"
+    },
+    "travelled": {
+      "v": "es ysdröshte",
+      "t": "v"
+    },
+    "but": {
+      "v": "yne",
+      "t": "conj"
+    },
+    "ever": {
+      "v": "ynig",
+      "t": "adv"
+    },
+    "tie": {
+      "v": "ynilysh",
+      "t": "n"
+    },
+    "connection": {
+      "v": "ynilysh",
+      "t": "n"
+    },
+    "together": {
+      "v": "ynilyshil",
+      "t": "adj"
+    },
+    "ties": {
+      "v": "ynilyshyn",
+      "t": "n"
+    },
+    "connections": {
+      "v": "ynilyshyn",
+      "t": "n"
+    },
+    "upon which?": {
+      "v": "ynkwe?",
+      "t": "adv"
+    },
+    "someone": {
+      "v": "ynyen",
+      "t": "pron"
+    },
+    "something": {
+      "v": "ynyen",
+      "t": "pron"
+    },
+    "under": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "underneath": {
+      "v": "ys",
+      "t": "prep"
+    },
+    "down": {
+      "v": "ys",
+      "t": "adv"
+    },
+    "downward": {
+      "v": "ys",
+      "t": "adv"
+    },
+    "downwards": {
+      "v": "ys",
+      "t": "adv"
+    },
+    "to rape": {
+      "v": "ysfen",
+      "t": "v"
+    },
+    "raping": {
+      "v": "ysfenme",
+      "t": "n"
+    },
+    "raped": {
+      "v": "eif ysfente",
+      "t": "v"
+    },
+    "claw": {
+      "v": "zal",
+      "t": "n"
+    },
+    "cloud": {
+      "v": "zef",
+      "t": "n"
+    },
+    "clouds": {
+      "v": "zefen",
+      "t": "n"
+    },
+    "to rise": {
+      "v": "zeil",
+      "t": "v"
+    },
+    "to raise": {
+      "v": "zeil",
+      "t": "v"
+    },
+    "it rose": {
+      "v": "es zeilte",
+      "t": "v"
+    },
+    "risen": {
+      "v": "eif zeilte",
+      "t": "v"
+    },
+    "to rise up": {
+      "v": "zeil eip",
+      "t": "v"
+    },
+    "manuka": {
+      "v": "zeryn",
+      "t": "n"
+    },
+    "manuka tree": {
+      "v": "zeiryn",
+      "t": "n"
+    },
+    "xin'trea": {
+      "v": "zintrei",
+      "t": "n"
+    },
+    "swallow": {
+      "v": "zireyel",
+      "t": "n"
+    },
+    "big": [
+      {
+        "v": "zol",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "zolke",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "great": [
+      {
+        "v": "zol",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "zolke",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "large": [
+      {
+        "v": "zol",
+        "t": [
+          "adj"
+        ]
+      },
+      {
+        "v": "zolke",
+        "t": [
+          "adj"
+        ]
+      }
+    ],
+    "debt": {
+      "v": "zolg",
+      "t": "n"
+    },
+    "risk": {
+      "v": "zolgenyrm",
+      "t": "n"
+    },
+    "penalty": {
+      "v": "zolgenyrm",
+      "t": "n"
+    },
+    "mighty": {
+      "v": "zolke",
+      "t": "adj"
+    },
+    "chaotic": {
+      "v": "zurshe",
+      "t": "adj"
+    },
+    "unpredictable": {
+      "v": "zurshe",
+      "t": "adj"
+    },
+    "chaos": {
+      "v": "zurshem",
+      "t": "n"
+    }
+  }
+}

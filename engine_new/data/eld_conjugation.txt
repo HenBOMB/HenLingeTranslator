@@ -1,0 +1,31 @@
+#PRESENT CONJUGATION IRREGULAR VERBS:
+-present
+
+es (1p, pr, si, end) - ei
+es (2p, pr, si, end) - eith
+es (1p, pr, pl, end) - en
+es (2p, pr, pl, end) - ek
+es (3p, pr, pl, end) - el
+
+eif (1p, pr, si) - ave
+eif (2p, pr, si) - eivith
+eif (1p, pr, pl) - aven
+eif (2p, pr, pl) - eivik
+eif (3p, pr, pl) - avel
+
+#PAST CONJUGATION IRREGULAR VERBS:
+-past
+
+es (1p, pa, si) - er
+es (2p, pa, si) - ereith
+es (3p, pa, si) - er
+es (1p, pa, pl) - eren
+es (2p, pa, pl) - erek
+es (3p, pa, pl) - erel
+
+eif (1p, pa, si) - at
+eif (2p, pa, si) - eith
+eif (3p, pa, si) - at
+eif (1p, pa, pl) - ein
+eif (2p, pa, pl) - eik
+eif (3p, pa, pl) - eil

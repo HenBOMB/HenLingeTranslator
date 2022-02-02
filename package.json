@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "en-inflectors": "^1.0.12",
+    "en-lexicon": "^1.0.11",
+    "en-stemmer": "^1.0.3",
+    "string-similarity": "^4.0.4"
+  }
+}
